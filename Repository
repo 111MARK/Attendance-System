@@ -12198,3 +12198,3227 @@ Module class"
     <include
         layout="@ref/0x7f0b008a" />
 </RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(16385)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f080126"
+        android:paddingTop="@ref/0x7f060138"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:minHeight="@ref/0x7f060136"
+        android:layout_weight="1065353216.000000"
+        android:layout_toLeftOf="@ref/0x7f080064">
+
+        <FrameLayout
+            android:id="@ref/0x7f080125"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060135"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginBottom="dimension(2049)"
+            android:layout_weight="1065353216.000000">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@ref/0x7f080144"
+            android:paddingTop="@ref/0x7f06013b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginRight="dimension(2049)">
+
+            <DateTimeView
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f0801a7"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <Chronometer
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f080070"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <TextView
+                android:textAppearance="@ref/0x7f10015b"
+                android:layout_gravity="0x800055"
+                android:id="@ref/0x7f0800d7"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginTop="dimension(5121)"
+                android:singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_gravity="0x800015"
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+    </LinearLayout>
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="-1"
+        android:layout_marginRight="dimension(1537)"
+        layout="@ref/0x7f0b00c7" />
+
+    <ImageView
+        android:id="@ref/0x7f0800a7"
+        android:layout_width="dimension(1537)"
+        android:layout_height="-1" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textSize="dimension(5633)"
+        android:textColor="@ref/0x7f05002e"
+        android:gravity="0x11"
+        android:id="@ref/0x7f0801c3"
+        android:background="@ref/0x7f0700b7"
+        android:layout_width="dimension(76801)"
+        android:layout_height="dimension(12801)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="View Course Attendance"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textColor="@ref/0x7f05002e"
+        android:gravity="0x11"
+        android:id="@ref/0x7f080187"
+        android:layout_width="dimension(76801)"
+        android:layout_height="dimension(12801)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="There no attendance yet"
+        android:layout_below="@ref/0x7f0801c3"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(28161)"
+        android:layout_height="dimension(28161)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textSize="@ref/0x7f060142"
+        android:textColor="@ref/0x7f050031"
+        android:id="@ref/0x7f0800e9"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Select Teacher"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:gravity="0x1"
+        android:orientation="1"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f0800e9"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:background="@ref/0x7f0700b5"
+            android:layout_width="-1"
+            android:layout_height="dimension(12801)">
+
+            <Spinner
+                android:id="@ref/0x7f08016d"
+                android:layout_width="-1"
+                android:layout_height="dimension(12801)" />
+        </LinearLayout>
+
+        <Button
+            android:textColor="@ref/0x7f050031"
+            android:id="@ref/0x7f08007e"
+            android:background="@ref/0x7f0700b5"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="continue" />
+    </LinearLayout>
+
+    <Button
+        android:textColor="@ref/0x7f050031"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b5"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="back"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(28161)"
+        android:layout_height="dimension(28161)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textSize="@ref/0x7f060142"
+        android:textColor="@ref/0x7f050031"
+        android:id="@ref/0x7f0800e9"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Select Teacher"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:gravity="0x1"
+        android:orientation="1"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f0800e9"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:background="@ref/0x7f0700b5"
+            android:layout_width="-1"
+            android:layout_height="dimension(12801)">
+
+            <Spinner
+                android:id="@ref/0x7f08016d"
+                android:layout_width="-1"
+                android:layout_height="dimension(12801)" />
+        </LinearLayout>
+
+        <Button
+            android:textColor="@ref/0x7f050031"
+            android:id="@ref/0x7f08007e"
+            android:background="@ref/0x7f0700b5"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="continue" />
+    </LinearLayout>
+
+    <Button
+        android:textColor="@ref/0x7f050031"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b5"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="back"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(28161)"
+        android:layout_height="dimension(28161)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textSize="@ref/0x7f060142"
+        android:textColor="@ref/0x7f050031"
+        android:id="@ref/0x7f0800e9"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Select Teacher"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:gravity="0x1"
+        android:orientation="1"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f0800e9"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:background="@ref/0x7f0700b5"
+            android:layout_width="-1"
+            android:layout_height="dimension(12801)">
+
+            <Spinner
+                android:id="@ref/0x7f08016d"
+                android:layout_width="-1"
+                android:layout_height="dimension(12801)" />
+        </LinearLayout>
+
+        <Button
+            android:textColor="@ref/0x7f050031"
+            android:id="@ref/0x7f08007e"
+            android:background="@ref/0x7f0700b5"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="continue" />
+    </LinearLayout>
+
+    <Button
+        android:textColor="@ref/0x7f050031"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b5"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="back"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minWidth="dimension(50177)">
+
+    <ImageView
+        android:id="@ref/0x7f0800ca"
+        android:background="@ref/0x7f070031"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_marginTop="dimension(1025)"
+        android:layout_marginBottom="dimension(1025)" />
+
+    <LinearLayout
+        android:id="@ref/0x7f08007a"
+        android:duplicateParentState="true"
+        android:layout_width="-1"
+        android:layout_height="@attr/0x7f0300f8"
+        style="@ref/0x7f1000fc">
+
+        <RelativeLayout
+            android:layout_gravity="0x10"
+            android:duplicateParentState="true"
+            android:layout_width="dimension(1)"
+            android:layout_height="-2"
+            android:layout_weight="1065353216.000000"
+            style="@ref/0x7f1000fd">
+
+            <TextView
+                android:textAppearance="@attr/0x7f03026f"
+                android:ellipsize="4"
+                android:id="@ref/0x7f0801a8"
+                android:fadingEdge="0x1000"
+                android:duplicateParentState="true"
+                android:layout_width="-1"
+                android:layout_height="-2"
+                android:singleLine="true"
+                android:layout_alignParentTop="true"
+                style="@ref/0x7f100100" />
+
+            <TextView
+                android:textAppearance="@attr/0x7f030278"
+                android:id="@ref/0x7f080160"
+                android:duplicateParentState="true"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true"
+                android:layout_below="@ref/0x7f0801a8"
+                style="@ref/0x7f100100" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f08018a"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:scaleType="5"
+            style="@ref/0x7f1000ff" />
+    </LinearLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AlertDialogLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x800033"
+    android:orientation="1"
+    android:id="@ref/0x7f08012e"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <include
+        layout="@ref/0x7f0b00a9" />
+
+    <FrameLayout
+        android:id="@ref/0x7f08007b"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:minHeight="dimension(12289)">
+
+        <View
+            android:layout_gravity="0x30"
+            android:id="@ref/0x7f08014d"
+            android:background="@attr/0x7f0300a9"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@ref/0x7f08014e"
+            android:clipToPadding="false"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+            <LinearLayout
+                android:orientation="1"
+                android:layout_width="-1"
+                android:layout_height="-2">
+
+                <android.widget.Space
+                    android:id="@ref/0x7f08019f"
+                    android:visibility="2"
+                    android:layout_width="-1"
+                    android:layout_height="@ref/0x7f060025" />
+
+                <TextView
+                    android:id="@ref/0x0102000b"
+                    android:paddingLeft="@attr/0x7f0300e6"
+                    android:paddingRight="@attr/0x7f0300e6"
+                    android:layout_width="-1"
+                    android:layout_height="-2"
+                    style="@attr/0x7f0301c6" />
+
+                <android.widget.Space
+                    android:id="@ref/0x7f08019e"
+                    android:visibility="2"
+                    android:layout_width="-1"
+                    android:layout_height="@ref/0x7f060025" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+
+        <View
+            android:layout_gravity="0x50"
+            android:id="@ref/0x7f08014c"
+            android:background="@attr/0x7f0300a9"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@ref/0x7f080089"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:minHeight="dimension(12289)">
+
+        <FrameLayout
+            android:id="@ref/0x7f080088"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+        </FrameLayout>
+    </FrameLayout>
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        layout="@ref/0x7f0b00a8" />
+</androidx.appcompat.widget.AlertDialogLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AlertDialogLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x800033"
+    android:orientation="1"
+    android:id="@ref/0x7f08012e"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <include
+        layout="@ref/0x7f0b000a" />
+
+    <FrameLayout
+        android:id="@ref/0x7f08007b"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:minHeight="dimension(12289)">
+
+        <View
+            android:layout_gravity="0x30"
+            android:id="@ref/0x7f08014d"
+            android:background="@attr/0x7f0300a9"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+
+        <androidx.core.widget.NestedScrollView
+            android:id="@ref/0x7f08014e"
+            android:clipToPadding="false"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+            <LinearLayout
+                android:orientation="1"
+                android:layout_width="-1"
+                android:layout_height="-2">
+
+                <android.widget.Space
+                    android:id="@ref/0x7f08019f"
+                    android:visibility="2"
+                    android:layout_width="-1"
+                    android:layout_height="@ref/0x7f060025" />
+
+                <TextView
+                    android:id="@ref/0x0102000b"
+                    android:paddingLeft="@attr/0x7f0300e6"
+                    android:paddingRight="@attr/0x7f0300e6"
+                    android:layout_width="-1"
+                    android:layout_height="-2"
+                    style="@ref/0x7f100141" />
+
+                <android.widget.Space
+                    android:id="@ref/0x7f08019e"
+                    android:visibility="2"
+                    android:layout_width="-1"
+                    android:layout_height="@ref/0x7f060025" />
+            </LinearLayout>
+        </androidx.core.widget.NestedScrollView>
+
+        <View
+            android:layout_gravity="0x50"
+            android:id="@ref/0x7f08014c"
+            android:background="@attr/0x7f0300a9"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@ref/0x7f080089"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:minHeight="dimension(12289)">
+
+        <FrameLayout
+            android:id="@ref/0x7f080088"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+        </FrameLayout>
+    </FrameLayout>
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        layout="@ref/0x7f0b0008" />
+</androidx.appcompat.widget.AlertDialogLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(7681)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="1"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_margin="dimension(7681)"
+        android:layout_below="@ref/0x7f0800ea">
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="name:" />
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="email:" />
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="username:" />
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="course:" />
+    </LinearLayout>
+
+    <include
+        layout="@ref/0x7f0b008a" />
+
+    <Button
+        android:textColor="@ref/0x7f050031"
+        android:background="@ref/0x7f0700b6"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="back"
+        android:layout_above="@ref/0x7f08005e" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(7681)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:orientation="1"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_margin="dimension(7681)"
+        android:layout_below="@ref/0x7f0800ea">
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="name:" />
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="email:" />
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="username:" />
+
+        <TextView
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="course:" />
+    </LinearLayout>
+
+    <include
+        layout="@ref/0x7f0b008a" />
+
+    <Button
+        android:textColor="@ref/0x7f050031"
+        android:background="@ref/0x7f0700b6"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="back"
+        android:layout_above="@ref/0x7f08005e" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:paddingTop="dimension(513)"
+    android:paddingRight="dimension(2049)"
+    android:paddingBottom="dimension(513)"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800e3"
+        android:paddingTop="dimension(1537)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060135">
+
+        <TextView
+            android:textAppearance="@ref/0x7f100162"
+            android:ellipsize="4"
+            android:id="@ref/0x7f0801a8"
+            android:fadingEdge="0x1000"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="1065353216.000000" />
+
+        <DateTimeView
+            android:textAppearance="@ref/0x7f100160"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f0801a7"
+            android:paddingLeft="dimension(2049)"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="0.000000" />
+
+        <Chronometer
+            android:textAppearance="@ref/0x7f100160"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f080070"
+            android:paddingLeft="dimension(2049)"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="0.000000" />
+    </LinearLayout>
+
+    <TextView
+        android:textAppearance="@ref/0x7f10015d"
+        android:ellipsize="4"
+        android:id="@ref/0x7f08019c"
+        android:visibility="2"
+        android:fadingEdge="0x1000"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060135"
+        android:layout_marginTop="dimension(-511)"
+        android:layout_marginBottom="dimension(-511)"
+        android:singleLine="true" />
+
+    <LinearLayout
+        android:gravity="0x10"
+        android:orientation="0"
+        android:id="@ref/0x7f0800e4"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060135">
+
+        <TextView
+            android:textAppearance="@ref/0x7f10015e"
+            android:ellipsize="4"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f08019b"
+            android:fadingEdge="0x1000"
+            android:layout_width="dimension(1)"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="1065353216.000000" />
+
+        <TextView
+            android:textAppearance="@ref/0x7f10015b"
+            android:gravity="0x11"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f0800d7"
+            android:paddingLeft="dimension(2049)"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="0.000000" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <com.jaiselrahman.filepicker.view.SquareImage
+        android:id="@ref/0x7f0800b6"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(-256)"
+        android:contentDescription="@ref/0x7f0f003c"
+        app:srcCompat="@ref/0x7f07008f" />
+
+    <TextView
+        android:textSize="dimension(3074)"
+        android:textColor="@ref/0x0106000b"
+        android:layout_gravity="0x800035"
+        android:id="@ref/0x7f0800b0"
+        android:background="@ref/0x7f0700bb"
+        android:layout_width="-2"
+        android:layout_height="-2" />
+
+    <TextView
+        android:textSize="dimension(3074)"
+        android:textColor="@ref/0x0106000b"
+        android:ellipsize="3"
+        android:gravity="0x10"
+        android:layout_gravity="0x50"
+        android:id="@ref/0x7f0800b2"
+        android:background="@ref/0x7f0500d2"
+        android:padding="dimension(1281)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:lines="2" />
+
+    <ImageView
+        android:id="@ref/0x7f0800b5"
+        android:background="@ref/0x7f0500d2"
+        android:padding="dimension(5121)"
+        android:layout_width="-1"
+        android:layout_height="-1"
+        app:srcCompat="@ref/0x7f07009b" />
+
+    <ImageView
+        android:id="@ref/0x7f0800b3"
+        android:background="@ref/0x7f0500b9"
+        android:padding="dimension(5121)"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="-1"
+        android:contentDescription="@ref/0x7f0f0066"
+        app:srcCompat="@ref/0x7f070087" />
+
+    <ImageView
+        android:id="@ref/0x7f0800b4"
+        android:background="@ref/0x7f0500b9"
+        android:padding="dimension(5121)"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="-1"
+        android:contentDescription="@ref/0x7f0f0066"
+        app:srcCompat="@ref/0x7f07009d" />
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minWidth="dimension(50177)">
+
+    <ImageView
+        android:id="@ref/0x7f0800ca"
+        android:background="@ref/0x7f070031"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_marginTop="dimension(1025)"
+        android:layout_marginBottom="dimension(1025)" />
+
+    <LinearLayout
+        android:id="@ref/0x7f08007a"
+        android:duplicateParentState="true"
+        android:layout_width="-1"
+        android:layout_height="@attr/0x7f0300f8"
+        style="@ref/0x7f1000fc">
+
+        <TextView
+            android:textAppearance="@attr/0x7f03026f"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f0801a8"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            style="@ref/0x7f100101" />
+
+        <Space
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(257)"
+            android:layout_weight="1065353216.000000" />
+
+        <TextView
+            android:textAppearance="@attr/0x7f030278"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f080160"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            style="@ref/0x7f1000fe" />
+
+        <ImageView
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f08018a"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:scaleType="5"
+            style="@ref/0x7f1000ff" />
+    </LinearLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="dimension(14849)"
+    style="@ref/0x7f100102">
+
+    <ImageView
+        android:id="@ref/0x01020007"
+        android:visibility="1"
+        android:layout_width="@ref/0x7f060029"
+        android:layout_height="dimension(12289)"
+        android:scaleType="7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        style="@ref/0x7f100103" />
+
+    <ImageView
+        android:id="@ref/0x7f0800a3"
+        android:background="@attr/0x7f030216"
+        android:visibility="2"
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:scaleType="7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        style="@ref/0x7f100105" />
+
+    <ImageView
+        android:id="@ref/0x01020008"
+        android:visibility="2"
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:scaleType="7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignWithParentIfMissing="true"
+        style="@ref/0x7f100104" />
+
+    <TextView
+        android:textAppearance="@attr/0x7f030276"
+        android:gravity="0x30"
+        android:id="@ref/0x01020015"
+        android:paddingBottom="dimension(1025)"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="dimension(7425)"
+        android:singleLine="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignWithParentIfMissing="true"
+        style="@attr/0x1010086" />
+
+    <TextView
+        android:textAppearance="@attr/0x7f030277"
+        android:id="@ref/0x01020014"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:layout_above="@ref/0x01020015"
+        android:layout_centerVertical="true"
+        style="@attr/0x1010086" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+
+    <TextView
+        android:textAppearance="@attr/0x7f030266"
+        android:textColor="@attr/0x7f0300b9"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080168"
+        android:paddingLeft="@ref/0x7f060080"
+        android:paddingTop="@ref/0x7f060081"
+        android:paddingRight="@ref/0x7f060080"
+        android:paddingBottom="@ref/0x7f060081"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:maxLines="@ref/0x7f090006"
+        android:layout_weight="1065353216.000000"
+        android:alpha="@ref/0x7f06009a" />
+
+    <Button
+        android:layout_gravity="0x800015"
+        android:id="@ref/0x7f080167"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f06007d"
+        android:minWidth="dimension(12289)"
+        style="@attr/0x7f030226" />
+</view>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="0"
+    android:id="@ref/0x7f0800fc"
+    android:paddingTop="@ref/0x7f0600e3"
+    android:paddingBottom="@ref/0x7f0600e1"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <FrameLayout
+        android:layout_width="dimension(1)"
+        android:layout_height="-1"
+        android:layout_weight="1065353216.000000">
+
+        <com.google.android.material.button.MaterialButton
+            android:gravity="0x800013"
+            android:layout_gravity="0x800003"
+            android:id="@ref/0x7f0800fd"
+            android:layout_width="-2"
+            android:layout_height="@ref/0x7f0600e2"
+            android:insetTop="dimension(1)"
+            android:insetBottom="dimension(1)"
+            app:icon="@ref/0x7f070095"
+            app:iconGravity="0x4"
+            app:iconPadding="dimension(1025)" />
+    </FrameLayout>
+
+    <com.google.android.material.button.MaterialButton
+        android:gravity="0x11"
+        android:id="@ref/0x7f0800ff"
+        android:layout_width="@ref/0x7f06011a"
+        android:layout_height="@ref/0x7f0600e2"
+        android:insetTop="dimension(1)"
+        android:insetBottom="dimension(1)"
+        android:contentDescription="@ref/0x7f0f004a"
+        app:icon="@ref/0x7f070091" />
+
+    <com.google.android.material.button.MaterialButton
+        android:gravity="0x11"
+        android:id="@ref/0x7f0800fe"
+        android:layout_width="@ref/0x7f06011a"
+        android:layout_height="@ref/0x7f0600e2"
+        android:insetTop="dimension(1)"
+        android:insetBottom="dimension(1)"
+        android:contentDescription="@ref/0x7f0f0049"
+        app:icon="@ref/0x7f070092" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+
+    <TextView
+        android:textAppearance="@ref/0x7f100169"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080168"
+        android:paddingLeft="@ref/0x7f060080"
+        android:paddingTop="@ref/0x7f060081"
+        android:paddingRight="@ref/0x7f060080"
+        android:paddingBottom="@ref/0x7f060081"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:maxLines="@ref/0x7f090006"
+        android:layout_weight="1065353216.000000" />
+
+    <Button
+        android:textColor="@attr/0x7f0300a5"
+        android:layout_gravity="0x800015"
+        android:id="@ref/0x7f080167"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f06007d"
+        android:minWidth="dimension(12289)"
+        style="@attr/0x7f030053" />
+</view>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:id="@ref/0x7f0801ad"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:gravity="0x800013"
+        android:orientation="0"
+        android:id="@ref/0x7f0801aa"
+        android:paddingLeft="@attr/0x7f0300e6"
+        android:paddingTop="@ref/0x7f060025"
+        android:paddingRight="@attr/0x7f0300e6"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <ImageView
+            android:id="@ref/0x01020006"
+            android:layout_width="dimension(8193)"
+            android:layout_height="dimension(8193)"
+            android:layout_marginRight="dimension(2049)"
+            android:src="@ref/0x00000000"
+            android:scaleType="3" />
+
+        <androidx.appcompat.widget.DialogTitle
+            android:ellipsize="3"
+            android:layout_gravity="0x800003"
+            android:id="@ref/0x7f08004c"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:singleLine="true"
+            style="@attr/0x101005b" />
+    </LinearLayout>
+
+    <android.widget.Space
+        android:id="@ref/0x7f0801a9"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f060026" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_gravity="0x1"
+        android:id="@ref/0x7f0800d1"
+        android:duplicateParentState="true"
+        android:layout_width="dimension(6145)"
+        android:layout_height="dimension(6145)"
+        android:layout_marginTop="@ref/0x7f060064"
+        android:layout_marginBottom="@ref/0x7f060064"
+        android:contentDescription="@ref/0x00000000" />
+
+    <com.google.android.material.internal.BaselineLayout
+        android:layout_gravity="0x51"
+        android:paddingBottom="dimension(2561)"
+        android:duplicateParentState="true"
+        android:clipChildren="false"
+        android:clipToPadding="false"
+        android:layout_width="-2"
+        android:layout_height="-2">
+
+        <TextView
+            android:textSize="@ref/0x7f060066"
+            android:ellipsize="3"
+            android:id="@ref/0x7f080166"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:maxLines="1" />
+
+        <TextView
+            android:textSize="@ref/0x7f06005e"
+            android:ellipsize="3"
+            android:id="@ref/0x7f0800dd"
+            android:visibility="1"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:maxLines="1" />
+    </com.google.android.material.internal.BaselineLayout>
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ListMenuItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="@attr/0x7f0301bf">
+
+    <RelativeLayout
+        android:layout_gravity="0x10"
+        android:duplicateParentState="true"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="@attr/0x7f0301c1"
+        android:layout_marginRight="@attr/0x7f0301c2"
+        android:layout_weight="1065353216.000000">
+
+        <TextView
+            android:textAppearance="@attr/0x7f030273"
+            android:ellipsize="4"
+            android:id="@ref/0x7f0801a8"
+            android:fadingEdge="0x1000"
+            android:duplicateParentState="true"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:textAppearance="@attr/0x1010042"
+            android:id="@ref/0x7f080160"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_below="@ref/0x7f0801a8"
+            android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+</androidx.appcompat.view.menu.ListMenuItemView>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x11"
+    android:id="@ref/0x7f080043"
+    android:layout_width="-2"
+    android:layout_height="-1"
+    class="androidx.appcompat.widget.ActivityChooserView$InnerLayout"
+    style="@attr/0x7f030025">
+
+    <FrameLayout
+        android:layout_gravity="0x11"
+        android:id="@ref/0x7f0800ab"
+        android:background="@attr/0x7f030004"
+        android:paddingLeft="dimension(3073)"
+        android:paddingTop="dimension(513)"
+        android:paddingRight="dimension(3073)"
+        android:paddingBottom="dimension(513)"
+        android:focusable="true"
+        android:addStatesFromChildren="true"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+        <ImageView
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f0800d5"
+            android:layout_width="dimension(8193)"
+            android:layout_height="dimension(8193)"
+            android:scaleType="3"
+            android:adjustViewBounds="true" />
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_gravity="0x11"
+        android:id="@ref/0x7f080091"
+        android:background="@attr/0x7f030004"
+        android:paddingLeft="dimension(3073)"
+        android:paddingTop="dimension(513)"
+        android:paddingRight="dimension(3073)"
+        android:paddingBottom="dimension(513)"
+        android:focusable="true"
+        android:addStatesFromChildren="true"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+        <ImageView
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f0800d5"
+            android:layout_width="dimension(8193)"
+            android:layout_height="dimension(8193)"
+            android:scaleType="3"
+            android:adjustViewBounds="true" />
+    </FrameLayout>
+</view>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ActionBarOverlayLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@ref/0x7f080090"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b0014" />
+
+    <androidx.appcompat.widget.ActionBarContainer
+        android:gravity="0x30"
+        android:id="@ref/0x7f080032"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_alignParentTop="true"
+        style="@attr/0x7f030008">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@ref/0x7f080030"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            app:navigationContentDescription="@ref/0x7f0f0001"
+            style="@attr/0x7f03029b" />
+
+        <androidx.appcompat.widget.ActionBarContextView
+            android:theme="@attr/0x7f03000c"
+            android:id="@ref/0x7f080038"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            style="@attr/0x7f03001e" />
+    </androidx.appcompat.widget.ActionBarContainer>
+</androidx.appcompat.widget.ActionBarOverlayLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(32769)">
+
+    <ImageView
+        android:id="@ref/0x7f0800d1"
+        android:layout_width="dimension(32769)"
+        android:layout_height="dimension(32769)"
+        android:scaleType="6" />
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(513)"
+        android:layout_marginRight="dimension(513)"
+        android:layout_alignParentRight="true"
+        layout="@ref/0x7f0b00c7" />
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(32769)"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        layout="@ref/0x7f0b00ce" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-1"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(3073)"
+        android:layout_marginRight="dimension(3073)"
+        android:layout_toRightOf="@ref/0x7f0800d1"
+        android:layout_alignParentBottom="true">
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@ref/0x7f080039"
+        android:background="@attr/0x101032c"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_toRightOf="@ref/0x7f0800d1"
+        android:layout_above="@ref/0x7f0800ed" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(32769)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(513)"
+        android:layout_marginRight="dimension(513)"
+        android:layout_alignParentRight="true"
+        layout="@ref/0x7f0b00c7" />
+
+    <include
+        android:layout_gravity="0x70"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060137"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        layout="@ref/0x7f0b00ce" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-1"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(3073)"
+        android:layout_marginRight="dimension(3073)"
+        android:layout_alignParentBottom="true">
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@ref/0x7f080039"
+        android:background="@attr/0x101032c"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_above="@ref/0x7f0800ed" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-1"
+    android:layout_margin="dimension(1281)">
+
+    <TextView
+        android:id="@ref/0x7f08007a"
+        android:paddingLeft="dimension(5121)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(5121)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-1"
+        android:layout_height="-2" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:weightSum="1073741824.000000">
+
+        <TextView
+            android:gravity="0x11"
+            android:id="@ref/0x7f080065"
+            android:background="@ref/0x7f0700b7"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(10241)"
+            android:layout_marginLeft="dimension(2561)"
+            android:layout_marginRight="dimension(2561)"
+            android:text="Cancel"
+            android:layout_weight="1065353216.000000" />
+
+        <TextView
+            android:gravity="0x11"
+            android:id="@ref/0x7f080140"
+            android:background="@ref/0x7f0700b7"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(10241)"
+            android:layout_marginLeft="dimension(2561)"
+            android:layout_marginRight="dimension(2561)"
+            android:text="Reschedule"
+            android:layout_weight="1065353216.000000" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enabled="false"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:background="@ref/0x00000000"
+    android:paddingLeft="dimension(1025)"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:enabled="false"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7"
+        android:alpha="1056964608.000000" />
+
+    <TextView
+        android:enabled="false"
+        android:textColor="rgb4(0xffcccccc)"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:paddingLeft="dimension(1025)"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:alpha="1056964608.000000"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:id="@ref/0x7f0800e6"
+    android:background="@attr/0x7f030216"
+    android:paddingLeft="dimension(4097)"
+    android:paddingRight="dimension(4097)"
+    android:layout_width="-1"
+    android:layout_height="@attr/0x7f0300f8"
+    android:minWidth="dimension(50177)">
+
+    <LinearLayout
+        android:duplicateParentState="true"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+        <ImageView
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f0800d1"
+            android:duplicateParentState="true"
+            android:layout_width="dimension(8193)"
+            android:layout_height="dimension(8193)"
+            android:layout_marginRight="dimension(2049)" />
+
+        <TextView
+            android:textAppearance="@attr/0x7f03026f"
+            android:ellipsize="4"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f0801a8"
+            android:fadingEdge="0x1000"
+            android:duplicateParentState="true"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:padding="dimension(1281)"
+    android:layout_width="-1"
+    android:layout_height="dimension(12801)"
+    android:weightSum="1084227584.000000">
+
+    <TextView
+        android:textSize="dimension(4609)"
+        android:textStyle="0x1"
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080187"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:text="student"
+        android:layout_weight="1069547520.000000" />
+
+    <RadioGroup
+        android:layout_gravity="0x10"
+        android:orientation="0"
+        android:id="@ref/0x7f080053"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_weight="1080033280.000000">
+
+        <RadioButton
+            android:textSize="dimension(3073)"
+            android:id="@ref/0x7f080136"
+            android:layout_width="dimension(1)"
+            android:layout_height="-2"
+            android:text="Present"
+            android:layout_weight="1065353216.000000" />
+
+        <RadioButton
+            android:textSize="dimension(3073)"
+            android:id="@ref/0x7f08000d"
+            android:layout_width="dimension(1)"
+            android:layout_height="-2"
+            android:text="Absent"
+            android:layout_weight="1065353216.000000" />
+
+        <RadioButton
+            android:textSize="dimension(3073)"
+            android:id="@ref/0x7f0800e0"
+            android:layout_width="dimension(1)"
+            android:layout_height="-2"
+            android:text="Leave"
+            android:layout_weight="1065353216.000000" />
+    </RadioGroup>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080060"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:fillViewport="true"
+    style="@attr/0x7f030066">
+
+    <androidx.appcompat.widget.ButtonBarLayout
+        android:gravity="0x50"
+        android:orientation="0"
+        android:paddingLeft="dimension(3073)"
+        android:paddingTop="dimension(1025)"
+        android:paddingRight="dimension(3073)"
+        android:paddingBottom="dimension(1025)"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <Button
+            android:id="@ref/0x0102001b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030064" />
+
+        <android.widget.Space
+            android:id="@ref/0x7f08016c"
+            android:visibility="1"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000" />
+
+        <Button
+            android:id="@ref/0x0102001a"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030063" />
+
+        <Button
+            android:id="@ref/0x01020019"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030065" />
+    </androidx.appcompat.widget.ButtonBarLayout>
+</ScrollView>
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080060"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:fillViewport="true"
+    style="@attr/0x7f030066">
+
+    <androidx.appcompat.widget.ButtonBarLayout
+        android:gravity="0x50"
+        android:orientation="0"
+        android:paddingLeft="dimension(2049)"
+        android:paddingTop="dimension(513)"
+        android:paddingRight="dimension(2049)"
+        android:paddingBottom="dimension(513)"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <Button
+            android:id="@ref/0x0102001b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030064" />
+
+        <android.widget.Space
+            android:id="@ref/0x7f08016c"
+            android:visibility="1"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000" />
+
+        <Button
+            android:id="@ref/0x0102001a"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030063" />
+
+        <Button
+            android:id="@ref/0x01020019"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030065" />
+    </androidx.appcompat.widget.ButtonBarLayout>
+</ScrollView>
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="@ref/0x7f0600d7">
+
+    <LinearLayout
+        android:layout_gravity="0x30"
+        android:orientation="0"
+        android:id="@ref/0x7f080115"
+        android:paddingLeft="@ref/0x7f0600d4"
+        android:paddingRight="@ref/0x7f0600d4"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600d7"
+        android:baselineAligned="false"
+        style="@attr/0x7f0301d2">
+
+        <FrameLayout
+            android:id="@ref/0x7f080117"
+            android:paddingLeft="@ref/0x7f0600da"
+            android:layout_width="dimension(1)"
+            android:layout_height="-1"
+            android:layout_weight="1065353216.000000">
+
+            <include
+                layout="@ref/0x7f0b00bf" />
+
+            <include
+                layout="@ref/0x7f0b00be" />
+        </FrameLayout>
+
+        <include
+            layout="@ref/0x7f0b00c0" />
+    </LinearLayout>
+
+    <View
+        android:layout_gravity="0x50"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600d6"
+        style="@attr/0x7f0301d1" />
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:paddingLeft="@ref/0x7f0600cb"
+    android:paddingTop="dimension(4097)"
+    android:paddingRight="@ref/0x7f0600cb"
+    android:paddingBottom="dimension(4097)"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@ref/0x7f08011b"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="@ref/0x7f0f0061"
+            android:inputType="0x14"
+            android:imeOptions="0x10000000" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Space
+        android:layout_width="dimension(2049)"
+        android:layout_height="dimension(1)" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@ref/0x7f08011a"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="@ref/0x7f0f0060"
+            android:inputType="0x14"
+            android:imeOptions="0x10000000" />
+    </com.google.android.material.textfield.TextInputLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="dimension(20481)">
+
+    <TextView
+        android:textSize="dimension(4610)"
+        android:textColor="@ref/0x0106000b"
+        android:gravity="0x10"
+        android:id="@ref/0x7f080108"
+        android:paddingLeft="dimension(1281)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(11521)" />
+
+    <FrameLayout
+        android:layout_gravity="0x50"
+        android:id="@ref/0x7f080105"
+        android:background="@ref/0x7f070068"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f06009e"
+        android:layout_marginTop="dimension(5121)">
+
+        <ImageView
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f080107"
+            android:layout_width="dimension(7681)"
+            android:layout_height="dimension(7681)"
+            android:layout_marginLeft="dimension(2561)"
+            android:adjustViewBounds="true" />
+
+        <FrameLayout
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f080106"
+            android:paddingLeft="dimension(12801)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2">
+
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:orientation="0"
+        android:layout_width="-1"
+        android:layout_height="dimension(12801)">
+
+        <TextView
+            android:textSize="dimension(4609)"
+            android:textStyle="0x1"
+            android:gravity="0x800013"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f080187"
+            android:layout_width="dimension(1)"
+            android:layout_height="-1"
+            android:layout_marginRight="dimension(257)"
+            android:layout_weight="1065353216.000000" />
+
+        <TextView
+            android:textSize="dimension(4609)"
+            android:gravity="0x800013"
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f08013e"
+            android:layout_width="dimension(1)"
+            android:layout_height="-1"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_weight="1065353216.000000" />
+    </LinearLayout>
+
+    <View
+        android:background="rgb8(0xff8a8888)"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_marginTop="dimension(257)"
+        android:layout_marginBottom="dimension(257)" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x11"
+    android:orientation="0"
+    android:id="@ref/0x7f08005e"
+    android:background="@ref/0x7f05001b"
+    android:padding="dimension(1281)"
+    android:layout_width="-1"
+    android:layout_height="dimension(12801)"
+    android:layout_alignParentBottom="true">
+
+    <ImageView
+        android:id="@ref/0x7f0800ce"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:src="@ref/0x7f070090"
+        android:layout_weight="1065353216.000000" />
+
+    <ImageView
+        android:id="@ref/0x7f080062"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(1281)"
+        android:layout_marginRight="dimension(1281)"
+        android:src="@ref/0x7f07008e"
+        android:layout_weight="1065353216.000000" />
+
+    <ImageView
+        android:id="@ref/0x7f0800ef"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:src="@ref/0x7f070088"
+        android:layout_weight="1065353216.000000" />
+
+    <ImageView
+        android:id="@ref/0x7f080102"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(1281)"
+        android:src="@ref/0x7f07008a"
+        android:layout_weight="1065353216.000000" />
+
+    <ImageView
+        android:id="@ref/0x7f080104"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(1281)"
+        android:src="@ref/0x7f07009c"
+        android:layout_weight="1065353216.000000" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="0x800003"
+    android:id="@ref/0x7f08015b"
+    android:scrollbars="0x200"
+    android:fadingEdge="0x0"
+    android:clipToPadding="false"
+    android:layout_width="-1"
+    android:layout_height="-1"
+    android:cacheColorHint="@ref/0x00000000"
+    android:divider="@attr/0x7f0301b8"
+    android:overScrollMode="1"
+    app:paddingBottomNoButtons="@ref/0x7f060020"
+    app:paddingTopNoTitle="@ref/0x7f060021"
+    class="androidx.appcompat.app.AlertController$RecycleListView"
+    style="@ref/0x7f100228" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:paddingLeft="dimension(1025)"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7" />
+
+    <TextView
+        android:textColor="rgb4(0xffcccccc)"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:paddingLeft="dimension(1025)"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.FitWindowsLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <TextView
+        android:ellipsize="3"
+        android:layout_gravity="0x800003"
+        android:id="@ref/0x7f0801a8"
+        android:paddingLeft="@attr/0x7f0300e6"
+        android:paddingTop="@ref/0x7f060025"
+        android:paddingRight="@attr/0x7f0300e6"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:singleLine="true"
+        style="@attr/0x101005b" />
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        layout="@ref/0x7f0b0014" />
+</androidx.appcompat.widget.FitWindowsLinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@ref/0x7f080079"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@ref/0x7f08007f"
+        android:fitsSystemWindows="true"
+        android:layout_width="-1"
+        android:layout_height="-1">
+
+        <View
+            android:id="@ref/0x7f0801ae"
+            android:layout_width="-1"
+            android:layout_height="-1"
+            android:soundEffectsEnabled="false"
+            android:importantForAccessibility="2" />
+
+        <FrameLayout
+            android:layout_gravity="0x31"
+            android:id="@ref/0x7f080094"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            app:layout_behavior="@ref/0x7f0f001e"
+            style="@attr/0x7f030057">
+
+        </FrameLayout>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:theme="@ref/0x7f100008"
+        android:id="@ref/0x7f080050"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        app:layout_constraintTop_toTopOf="0">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@ref/0x7f0801ab"
+            android:layout_width="-1"
+            android:layout_height="@attr/0x10102eb" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@ref/0x7f0800b1"
+        android:layout_width="-1"
+        android:layout_height="dimension(1)"
+        app:layout_constraintBottom_toBottomOf="0"
+        app:layout_constraintTop_toBottomOf="@ref/0x7f080050" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+    <TextView
+        android:textAppearance="@ref/0x7f100145"
+        android:textColor="@attr/0x7f03029c"
+        android:ellipsize="3"
+        android:id="@ref/0x7f0800ef"
+        android:background="@attr/0x7f03029d"
+        android:paddingLeft="@ref/0x7f060149"
+        android:paddingTop="@ref/0x7f06014d"
+        android:paddingRight="@ref/0x7f060149"
+        android:paddingBottom="@ref/0x7f06014d"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_margin="@ref/0x7f06014a"
+        android:maxWidth="dimension(65537)"
+        android:maxLines="3" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <TextView
+        android:gravity="0x800003"
+        android:layout_gravity="0x1"
+        android:id="@ref/0x7f08007a"
+        android:background="@ref/0x7f0700b7"
+        android:padding="dimension(2561)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_margin="dimension(2561)"
+        android:text="content" />
+
+    <Button
+        android:layout_gravity="0x1"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f070082"
+        android:paddingLeft="dimension(2561)"
+        android:paddingRight="dimension(2561)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="ok" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(16385)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <include
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        layout="@ref/0x7f0b00ce" />
+
+    <LinearLayout
+        android:layout_gravity="0x800015"
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+    </LinearLayout>
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="-1"
+        android:layout_marginRight="dimension(1537)"
+        layout="@ref/0x7f0b00c7" />
+
+    <ImageView
+        android:id="@ref/0x7f0800a7"
+        android:layout_width="dimension(1537)"
+        android:layout_height="-1" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:padding="dimension(1281)"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <TextView
+        android:id="@ref/0x7f0800ef"
+        android:padding="dimension(1281)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(1281)"
+        android:layout_marginBottom="dimension(1281)"
+        android:text="message" />
+
+    <Button
+        android:id="@ref/0x7f080092"
+        android:paddingLeft="dimension(1281)"
+        android:paddingRight="dimension(1281)"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="delete" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x1"
+    android:orientation="1"
+    android:layout_width="dimension(69121)"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:layout_gravity="0x1"
+        android:orientation="0"
+        android:id="@ref/0x7f08012d"
+        android:layout_width="-2"
+        android:layout_height="-2">
+
+        <NumberPicker
+            android:id="@ref/0x7f0800fa"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="dimension(20481)"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_marginRight="dimension(257)" />
+
+        <NumberPicker
+            android:id="@ref/0x7f08008f"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="dimension(20481)"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_marginRight="dimension(257)" />
+
+        <NumberPicker
+            android:id="@ref/0x7f0801d0"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="dimension(24321)"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_marginRight="dimension(257)" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b00b3" />
+
+    <FrameLayout
+        android:id="@ref/0x7f08010e"
+        android:layout_width="-1"
+        android:layout_height="-1">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_gravity="0x1"
+            android:id="@ref/0x7f080110"
+            android:scrollbars="0x0"
+            android:layout_width="-2"
+            android:layout_height="-1" />
+
+        <LinearLayout
+            android:orientation="1"
+            android:id="@ref/0x7f080109"
+            android:layout_width="-2"
+            android:layout_height="-1">
+
+            <include
+                layout="@ref/0x7f0b00af" />
+
+            <include
+                layout="@ref/0x7f0b00b4" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f08010f"
+    android:paddingLeft="@ref/0x7f0600cb"
+    android:paddingTop="@ref/0x7f0600e9"
+    android:paddingRight="@ref/0x7f0600cb"
+    android:paddingBottom="dimension(4097)"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@ref/0x7f080119"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="@ref/0x7f0f005f"
+            android:inputType="0x14"
+            android:imeOptions="0x10000000" />
+    </com.google.android.material.textfield.TextInputLayout>
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckedTextView
+        android:textAppearance="@ref/0x7f10012b"
+        android:gravity="0x800013"
+        android:id="@ref/0x7f080097"
+        android:layout_width="dimension(1)"
+        android:layout_height="-1"
+        android:maxLines="1"
+        android:drawablePadding="@ref/0x7f060072"
+        android:layout_weight="1065353216.000000" />
+
+    <ViewStub
+        android:id="@ref/0x7f080096"
+        android:layout="@ref/0x7f0b0099"
+        android:inflatedId="@ref/0x7f080095"
+        android:layout_width="-2"
+        android:layout_height="-1" />
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x1010041"
+    android:textColor="@attr/0x7f03027c"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x1010219"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x1010219" />
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x1010041"
+    android:textColor="@attr/0x7f03027c"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x101021a"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x101021a" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="@ref/0x7f09000d"
+    android:layout_width="-2"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b00bc" />
+
+    <LinearLayout
+        android:orientation="1"
+        android:id="@ref/0x7f08010c"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+        <FrameLayout
+            android:id="@ref/0x7f08010b"
+            android:paddingLeft="@ref/0x7f0600cb"
+            android:paddingRight="@ref/0x7f0600cb"
+            android:paddingBottom="@ref/0x7f0600ca"
+            android:layout_width="-1"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000">
+
+        </FrameLayout>
+
+        <include
+            android:layout_width="-1"
+            android:layout_height="@ref/0x7f0600c8"
+            layout="@ref/0x7f0b00b9" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:padding="dimension(2049)"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <TextView
+        android:id="@ref/0x7f08005f"
+        android:background="rgb4(0xffffffff)"
+        android:layout_width="dimension(2561)"
+        android:layout_height="dimension(2561)" />
+
+    <TextView
+        android:textSize="dimension(4098)"
+        android:gravity="0x10"
+        android:id="@ref/0x7f080093"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(4097)"
+        android:text="vjhvkjhb" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="dimension(4097)"
+    android:paddingRight="dimension(4097)"
+    android:layout_width="-1"
+    android:layout_height="@attr/0x7f0300f8"
+    android:minWidth="dimension(50177)">
+
+    <TextView
+        android:textAppearance="@attr/0x7f030275"
+        android:ellipsize="4"
+        android:layout_gravity="0x10"
+        android:id="@ref/0x01020016"
+        android:fadingEdge="0x1000"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:singleLine="true" />
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:id="@ref/0x7f0801ad"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:id="@ref/0x7f0801aa"
+        style="@attr/0x7f0301c9">
+
+        <ImageView
+            android:id="@ref/0x01020006"
+            style="@attr/0x7f0301c8" />
+
+        <androidx.appcompat.widget.DialogTitle
+            android:id="@ref/0x7f08004c"
+            style="@attr/0x7f0301ca" />
+    </LinearLayout>
+
+    <android.widget.Space
+        android:id="@ref/0x7f0801a9"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f060026" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <TextView
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="Hello World!"
+        app:layout_constraintBottom_toBottomOf="0"
+        app:layout_constraintLeft_toLeftOf="0"
+        app:layout_constraintRight_toRightOf="0"
+        app:layout_constraintTop_toTopOf="0" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.FitWindowsLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:id="@ref/0x7f080033"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <androidx.appcompat.widget.ViewStubCompat
+        android:id="@ref/0x7f08003e"
+        android:layout="@ref/0x7f0b0004"
+        android:inflatedId="@ref/0x7f08003d"
+        android:layout_width="-1"
+        android:layout_height="-2" />
+
+    <include
+        layout="@ref/0x7f0b0014" />
+</androidx.appcompat.widget.FitWindowsLinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ActionMenuItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x7f030011"
+    android:textColor="@attr/0x7f030012"
+    android:gravity="0x11"
+    android:layout_gravity="0x11"
+    android:paddingLeft="dimension(2049)"
+    android:paddingTop="dimension(1025)"
+    android:paddingRight="dimension(2049)"
+    android:paddingBottom="dimension(1025)"
+    android:focusable="true"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    style="@attr/0x7f03000e" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    style="@ref/0x7f1000fa">
+
+    <TextView
+        android:ellipsize="3"
+        android:id="@ref/0x7f080036"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true" />
+
+    <TextView
+        android:ellipsize="3"
+        android:id="@ref/0x7f080035"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginTop="@ref/0x7f06000c"
+        android:singleLine="true" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@ref/0x7f08003f"
+    android:paddingLeft="dimension(2049)"
+    android:focusable="true"
+    android:clickable="true"
+    android:layout_width="-2"
+    android:layout_height="-1"
+    android:layout_marginRight="dimension(4097)"
+    android:contentDescription="@ref/0x7f0f0003"
+    app:srcCompat="@attr/0x7f030015"
+    style="@attr/0x7f030014" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.datepicker.MaterialCalendarGridView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x11"
+    android:id="@ref/0x7f0800fb"
+    android:addStatesFromChildren="false"
+    android:descendantFocusability="1"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:listSelector="@ref/0x0106000d"
+    android:horizontalSpacing="@ref/0x7f0600df"
+    android:verticalSpacing="@ref/0x7f0600e0" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x800005"
+    android:orientation="0"
+    android:id="@ref/0x7f08008e"
+    android:paddingRight="@ref/0x7f0600c9"
+    android:layout_width="-1"
+    android:layout_height="@ref/0x7f0600c8">
+
+    <Button
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080066"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="@ref/0x7f0f004c"
+        style="@attr/0x7f030063" />
+
+    <Button
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080078"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="@ref/0x7f0f004d"
+        style="@attr/0x7f030065" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x1010219"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x1010219" />
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x101021a"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x101021a" />
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.FitWindowsFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080033"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b0014" />
+
+    <androidx.appcompat.widget.ViewStubCompat
+        android:id="@ref/0x7f08003e"
+        android:layout="@ref/0x7f0b0004"
+        android:inflatedId="@ref/0x7f08003d"
+        android:layout_width="-1"
+        android:layout_height="-2" />
+</androidx.appcompat.widget.FitWindowsFrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="0x11"
+    android:id="@ref/0x7f080064"
+    android:visibility="2"
+    android:layout_width="dimension(12289)"
+    android:layout_height="-1"
+    android:layout_marginLeft="dimension(513)"
+    android:layout_marginRight="dimension(513)"
+    android:src="@ref/0x01080038"
+    android:layout_weight="1065353216.000000"
+    style="@attr/0x101032b" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="0x800053"
+    android:layout_gravity="0x800033"
+    android:id="@ref/0x7f080116"
+    android:paddingBottom="@ref/0x7f0600e4"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    app:firstBaselineToTopHeight="@ref/0x7f0600e8"
+    app:lineHeight="@ref/0x7f0600d9"
+    style="@attr/0x7f0301d3" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <TextView
+        android:gravity="0x800013"
+        android:id="@ref/0x7f080100"
+        android:focusable="true"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600cd"
+        style="@ref/0x7f100179" />
+
+    <include
+        layout="@ref/0x7f0b00b1" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x1"
+    android:orientation="1"
+    android:id="@ref/0x7f080114"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b00bd" />
+
+    <FrameLayout
+        android:id="@ref/0x7f08010b"
+        android:paddingLeft="@ref/0x7f0600cb"
+        android:paddingRight="@ref/0x7f0600cb"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+    </FrameLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x7f030273"
+    android:textColor="@attr/0x7f03027c"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@attr/0x7f0301c1"
+    android:paddingRight="@attr/0x7f0301c2"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf" />
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x10"
+    android:id="@ref/0x7f0800d1"
+    android:duplicateParentState="true"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:layout_marginLeft="dimension(2049)"
+    android:layout_marginTop="dimension(2049)"
+    android:layout_marginRight="dimension(-2047)"
+    android:layout_marginBottom="dimension(2049)"
+    android:scaleType="7" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.ChipGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f08006f"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:layout_margin="dimension(4097)">
+
+    <com.google.android.material.chip.Chip
+        android:ellipsize="3"
+        android:id="@ref/0x7f0800bc"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="@ref/0x7f0f0022"
+        style="@ref/0x7f100270" />
+</com.google.android.material.chip.ChipGroup>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x11"
+    android:orientation="1"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b00af" />
+
+    <View
+        android:background="@attr/0x7f0300b1"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)" />
+
+    <include
+        layout="@ref/0x7f0b00b4" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+    <CheckBox
+        android:id="@ref/0x7f080199"
+        android:background="@attr/0x1010031"
+        android:layout_width="-2"
+        android:layout_height="-2" />
+
+    <CheckBox
+        android:id="@ref/0x7f08019a"
+        android:background="@attr/0x1010031"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        app:buttonTint="@ref/0x7f05002c" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.NavigationMenuItemView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="@attr/0x7f0301c1"
+    android:paddingRight="@attr/0x7f0301c2"
+    android:focusable="true"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:foreground="@attr/0x7f030216"
+    android:minHeight="@attr/0x7f0301bf" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.CheckableImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x800055"
+    android:id="@ref/0x7f080118"
+    android:layout_width="@ref/0x7f06011a"
+    android:layout_height="@ref/0x7f06011a"
+    android:layout_marginTop="@ref/0x7f0600dc"
+    android:layout_marginBottom="@ref/0x7f0600db"
+    style="@attr/0x7f0301d5" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="0x800053"
+    android:layout_gravity="0x800033"
+    android:id="@ref/0x7f08011c"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    app:firstBaselineToTopHeight="@ref/0x7f0600ea"
+    style="@attr/0x7f0301d4" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@attr/0x7f0301c1"
+    android:paddingRight="@attr/0x7f0301c2"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    style="@attr/0x7f0301c6" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.CheckableImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x800013"
+    android:id="@ref/0x7f0801a2"
+    android:background="@attr/0x7f030004"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:minWidth="dimension(12289)"
+    android:minHeight="dimension(12289)" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.CheckableImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x800015"
+    android:id="@ref/0x7f0801a1"
+    android:background="@attr/0x7f030004"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:minWidth="dimension(12289)"
+    android:minHeight="dimension(12289)" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@ref/0x7f10012b"
+    android:textColor="@attr/0x1010038"
+    android:gravity="0x800013"
+    android:paddingLeft="@attr/0x7f0301c1"
+    android:paddingRight="@attr/0x7f0301c2"
+    android:layout_width="-1"
+    android:layout_height="@attr/0x7f0301bf"
+    android:maxLines="1" />
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <Button
+        android:id="@ref/0x7f08009c"
+        android:layout_width="dimension(25600)"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(1281)"
+        android:layout_marginRight="dimension(1281)"
+        android:text=" Ok " />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.NavigationMenuView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080098"
+    android:paddingBottom="@ref/0x7f060077"
+    android:scrollbars="0x200"
+    android:clipToPadding="false"
+    android:layout_width="-1"
+    android:layout_height="-1" />
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x11"
+    android:id="@ref/0x7f08002f"
+    android:layout_width="dimension(12289)"
+    android:layout_height="-1"
+    android:layout_marginLeft="dimension(513)"
+    android:layout_marginRight="dimension(513)"
+    android:layout_weight="1065353216.000000"
+    style="@attr/0x101032b" />
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.Snackbar$SnackbarLayout"
+    style="@attr/0x7f030227" />
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.Snackbar$SnackbarLayout"
+    style="@ref/0x7f100248" />
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ActionMenuView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="0x10"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    app:divider="@attr/0x7f030003"
+    app:dividerPadding="dimension(3073)" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:textAppearance="@ref/0x7f100123"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    app:lineHeight="@ref/0x7f06009d" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.tsongkha.spinnerdatepicker.DatePicker
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x1"
+    android:id="@ref/0x7f08008d"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:spinnersShown="true"
+    android:calendarViewShown="false" />
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <androidx.appcompat.widget.ContentFrameLayout
+        android:id="@ref/0x7f080031"
+        android:layout_width="-1"
+        android:layout_height="-1"
+        android:foreground="@attr/0x1010059"
+        android:foregroundGravity="0x37">
+
+    </androidx.appcompat.widget.ContentFrameLayout>
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<NumberPicker
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080127"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="dimension(24321)"
+    android:layout_height="-2"
+    android:layout_marginLeft="dimension(257)"
+    android:layout_marginRight="dimension(257)" />
+<?xml version="1.0" encoding="utf-8"?>
+<NumberPicker
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080127"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="dimension(20481)"
+    android:layout_height="-2"
+    android:layout_marginLeft="dimension(257)"
+    android:layout_marginRight="dimension(257)" />
+<?xml version="1.0" encoding="utf-8"?>
+<RadioButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x10"
+    android:id="@ref/0x7f08013b"
+    android:focusable="false"
+    android:clickable="false"
+    android:duplicateParentState="true"
+    android:layout_width="-2"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<CheckBox
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x10"
+    android:id="@ref/0x7f08006c"
+    android:focusable="false"
+    android:clickable="false"
+    android:duplicateParentState="true"
+    android:layout_width="-2"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x1"
+    android:orientation="1"
+    android:layout_width="dimension(69121)"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:layout_gravity="0x1"
+        android:orientation="0"
+        android:id="@ref/0x7f08012d"
+        android:layout_width="-2"
+        android:layout_height="-2">
+
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.chip.Chip
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="3"
+    android:id="@ref/0x7f08006e"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:text="@ref/0x7f0f0022"
+    style="@ref/0x7f10026d" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="4"
+    android:id="@ref/0x01020014"
+    android:layout_width="-1"
+    android:layout_height="@attr/0x7f0300f8"
+    android:singleLine="true"
+    style="@attr/0x7f03022a" />
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ActionBarContextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@attr/0x7f03000c"
+    android:visibility="2"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    style="@attr/0x7f03001e" />
+<?xml version="1.0" encoding="utf-8"?>
+<DateTimeView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@ref/0x7f10015f"
+    android:id="@ref/0x7f0801a7"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:singleLine="true" />
+<?xml version="1.0" encoding="utf-8"?>
+<Chronometer
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@ref/0x7f10015f"
+    android:id="@ref/0x7f080070"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:singleLine="true" />
+<?xml version="1.0" encoding="utf-8"?>
+<GridView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x1"
+    android:id="@ref/0x7f08010a"
+    android:layout_width="-1"
+    android:layout_height="@ref/0x7f0600d2"
+    android:horizontalSpacing="@ref/0x7f0600df" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:id="@ref/0x7f08011e"
+    android:paddingBottom="@ref/0x7f060078"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enabled="false"
+    android:gravity="0x10"
+    android:background="@attr/0x7f030004"
+    android:layout_width="-2"
+    android:layout_height="-1">
+
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="3"
+    android:gravity="0x11"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:maxLines="2" />
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <View
+        android:background="@attr/0x1010214"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)" />
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f08010d"
+    android:layout_width="-1"
+    android:layout_height="-1"
+    android:listSelector="@ref/0x0106000d" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@ref/0x7f100125"
+    android:layout_width="-1"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@ref/0x7f100123"
+    android:layout_width="-1"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@ref/0x7f0700b8"
+    android:layout_width="-1"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x7f030266"
+    android:gravity="0x11"
+    android:layout_width="@ref/0x7f0600d1"
+    android:layout_height="@ref/0x7f0600d2" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    style="@ref/0x7f100124" />
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="dimension(6145)"
+    android:layout_height="dimension(6145)"
+    android:scaleType="7"
+    android:contentDescription="@ref/0x00000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    style="@ref/0x7f1002a6" />
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.view.menu.ExpandedMenuView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f0800ac"
+    android:layout_width="@attr/0x7f0301f6"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f0800d1"
+    android:layout_width="@ref/0x7f060137"
+    android:layout_height="@ref/0x7f060136"
+    android:scaleType="6" />
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x1"
+    android:id="@ref/0x7f08008d"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f0800d1"
+    android:layout_width="@ref/0x7f060137"
+    android:layout_height="@ref/0x7f060136"
+    android:scaleType="6" />
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x1"
+    android:id="@ref/0x7f08008d"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.textview.MaterialTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@ref/0x7f0600f0"
+    android:layout_height="@ref/0x7f0600ed"
+    style="@attr/0x7f0301ce" />
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@ref/0x7f0600d1"
+    android:layout_height="@ref/0x7f0600cd"
+    style="@attr/0x7f0301ce" />
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-2"
+    android:layout_height="-1">
+
+</FrameLayout>
