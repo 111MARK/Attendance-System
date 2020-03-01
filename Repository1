@@ -3196,3 +3196,5110 @@
     <item
         android:color="@ref/0x01060013" />
 </selector>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080151"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <TextView
+        android:textAppearance="@attr/0x1010041"
+        android:textColor="@attr/0x1010036"
+        android:gravity="0x10"
+        android:id="@ref/0x7f080150"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layout_marginBottom="dimension(513)"
+        android:drawablePadding="dimension(1)" />
+
+    <ImageView
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080152"
+        android:focusable="true"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:contentDescription="@ref/0x7f0f0015"
+        style="@attr/0x7f03000e" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f080154"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layout_marginLeft="dimension(2049)"
+        android:layout_marginRight="dimension(2049)"
+        android:layout_weight="1065353216.000000"
+        android:layoutDirection="3">
+
+        <ImageView
+            android:layout_gravity="0x10"
+            android:id="@ref/0x7f080157"
+            android:visibility="2"
+            android:layout_width="@ref/0x7f060029"
+            android:layout_height="-2"
+            android:scaleType="7"
+            style="@ref/0x7f100107" />
+
+        <LinearLayout
+            android:layout_gravity="0x10"
+            android:orientation="0"
+            android:id="@ref/0x7f080158"
+            android:layout_width="-2"
+            android:layout_height="-1"
+            android:layout_weight="1065353216.000000">
+
+            <view
+                android:ellipsize="3"
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080159"
+                android:background="@ref/0x00000000"
+                android:paddingLeft="@ref/0x7f06002a"
+                android:paddingRight="@ref/0x7f06002b"
+                android:layout_width="dimension(1)"
+                android:layout_height="dimension(9217)"
+                android:singleLine="true"
+                android:layout_weight="1065353216.000000"
+                android:inputType="0x90001"
+                android:dropDownAnchor="@ref/0x7f080154"
+                android:imeOptions="0x3"
+                android:dropDownHeight="-2"
+                android:dropDownHorizontalOffset="dimension(1)"
+                android:dropDownVerticalOffset="dimension(1)"
+                class="androidx.appcompat.widget.SearchView$SearchAutoComplete" />
+
+            <ImageView
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080153"
+                android:background="@attr/0x7f030217"
+                android:paddingLeft="dimension(2049)"
+                android:paddingRight="dimension(2049)"
+                android:focusable="true"
+                android:layout_width="-2"
+                android:layout_height="-1"
+                android:contentDescription="@ref/0x7f0f0013" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f08018b"
+            android:layout_width="-2"
+            android:layout_height="-1">
+
+            <ImageView
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f080156"
+                android:background="@attr/0x7f030217"
+                android:paddingLeft="dimension(4097)"
+                android:paddingRight="dimension(4097)"
+                android:focusable="true"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-1"
+                android:contentDescription="@ref/0x7f0f0016" />
+
+            <ImageView
+                android:layout_gravity="0x10"
+                android:id="@ref/0x7f08015a"
+                android:background="@attr/0x7f030217"
+                android:paddingLeft="dimension(4097)"
+                android:paddingRight="dimension(4097)"
+                android:focusable="true"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-1"
+                android:contentDescription="@ref/0x7f0f0017" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(32769)">
+
+    <ImageView
+        android:id="@ref/0x7f0800d1"
+        android:layout_width="dimension(32769)"
+        android:layout_height="dimension(32769)"
+        android:scaleType="6" />
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(513)"
+        android:layout_marginRight="dimension(513)"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        layout="@ref/0x7f0b00c7" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f080126"
+        android:paddingTop="@ref/0x7f060138"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(32769)"
+        android:minHeight="@ref/0x7f060136"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        android:layout_marginStart="dimension(32769)"
+        android:layout_toStartOf="@ref/0x7f080064">
+
+        <FrameLayout
+            android:id="@ref/0x7f080125"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060139"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginBottom="dimension(2049)"
+            android:layout_weight="1065353216.000000"
+            android:layout_marginStart="@ref/0x7f060139"
+            android:layout_marginEnd="dimension(2049)">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@ref/0x7f080144"
+            android:paddingTop="@ref/0x7f06013b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginEnd="dimension(2049)">
+
+            <DateTimeView
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f0801a7"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <Chronometer
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f080070"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <TextView
+                android:textAppearance="@ref/0x7f10015b"
+                android:layout_gravity="0x800055"
+                android:id="@ref/0x7f0800d7"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginTop="dimension(5121)"
+                android:singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-1"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(3073)"
+        android:layout_marginRight="dimension(3073)"
+        android:layout_toRightOf="@ref/0x7f0800d1"
+        android:layout_alignParentBottom="true"
+        android:layoutDirection="0"
+        android:layout_toEndOf="@ref/0x7f0800d1">
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@ref/0x7f080039"
+        android:background="@attr/0x101032c"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_toRightOf="@ref/0x7f0800d1"
+        android:layout_above="@ref/0x7f0800ed"
+        android:layout_toEndOf="@ref/0x7f0800d1" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-1"
+    android:layout_height="@ref/0x7f0600d8">
+
+    <LinearLayout
+        android:layout_gravity="0x31"
+        android:orientation="0"
+        android:paddingLeft="@ref/0x7f0600d5"
+        android:paddingTop="@ref/0x7f0600d5"
+        android:paddingRight="@ref/0x7f0600d5"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600d8"
+        android:paddingStart="@ref/0x7f0600d5"
+        android:paddingEnd="@ref/0x7f0600d5"
+        style="@attr/0x7f0301d2">
+
+        <com.google.android.material.button.MaterialButton
+            android:gravity="0x11"
+            android:layout_gravity="0x30"
+            android:id="@ref/0x7f080066"
+            android:padding="dimension(3073)"
+            android:layout_width="@ref/0x7f06011a"
+            android:layout_height="@ref/0x7f06011a"
+            android:insetTop="dimension(1)"
+            android:insetBottom="dimension(1)"
+            android:contentDescription="@ref/0x7f0f004c"
+            app:icon="@ref/0x7f070089"
+            app:iconTint="@attr/0x7f0300ae"
+            app:rippleColor="@ref/0x7f050087"
+            style="@ref/0x7f100263" />
+
+        <FrameLayout
+            android:id="@ref/0x7f080117"
+            android:paddingLeft="@ref/0x7f0600da"
+            android:layout_width="dimension(1)"
+            android:layout_height="-1"
+            android:layout_weight="1065353216.000000"
+            android:paddingStart="@ref/0x7f0600da">
+
+            <TextView
+                android:gravity="0x800053"
+                android:layout_gravity="0x800033"
+                android:id="@ref/0x7f08011c"
+                android:layout_width="-1"
+                android:layout_height="-2"
+                app:firstBaselineToTopHeight="@ref/0x7f0600eb"
+                style="@attr/0x7f0301d4" />
+
+            <TextView
+                android:gravity="0x800053"
+                android:layout_gravity="0x800033"
+                android:id="@ref/0x7f080116"
+                android:paddingBottom="@ref/0x7f0600e4"
+                android:layout_width="-1"
+                android:layout_height="-2"
+                app:firstBaselineToTopHeight="@ref/0x7f0600e5"
+                app:lineHeight="@ref/0x7f0600d9"
+                style="@attr/0x7f0301d3" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="@ref/0x7f09000d"
+            android:layout_width="-2"
+            android:layout_height="-2">
+
+            <com.google.android.material.button.MaterialButton
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f080078"
+                android:layout_width="-2"
+                android:layout_height="@ref/0x7f06011a"
+                android:text="@ref/0x7f0f005d"
+                android:contentDescription="@ref/0x7f0f005d"
+                style="@attr/0x7f0301d0" />
+
+            <include
+                layout="@ref/0x7f0b00c0" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_gravity="0x50"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600d6"
+        style="@attr/0x7f0301d1" />
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(32769)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(513)"
+        android:layout_marginRight="dimension(513)"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        layout="@ref/0x7f0b00c7" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f080126"
+        android:paddingTop="@ref/0x7f060138"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060136"
+        android:minHeight="@ref/0x7f060136"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        android:layout_marginStart="@ref/0x7f060136"
+        android:layout_toStartOf="@ref/0x7f080064">
+
+        <FrameLayout
+            android:id="@ref/0x7f080125"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060135"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginBottom="dimension(2049)"
+            android:layout_weight="1065353216.000000"
+            android:layout_marginStart="@ref/0x7f060135"
+            android:layout_marginEnd="dimension(2049)">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@ref/0x7f080144"
+            android:paddingTop="@ref/0x7f06013b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginEnd="dimension(2049)">
+
+            <DateTimeView
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f0801a7"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <Chronometer
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f080070"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <TextView
+                android:textAppearance="@ref/0x7f10015b"
+                android:layout_gravity="0x800055"
+                android:id="@ref/0x7f0800d7"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginTop="dimension(5121)"
+                android:singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-1"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(3073)"
+        android:layout_marginRight="dimension(3073)"
+        android:layout_alignParentBottom="true"
+        android:layoutDirection="0">
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@ref/0x7f080039"
+        android:background="@attr/0x101032c"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_above="@ref/0x7f0800ed" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080124"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <ImageView
+        android:id="@ref/0x7f0800d1"
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        android:scaleType="5" />
+
+    <LinearLayout
+        android:layout_gravity="0x30"
+        android:orientation="1"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f080126"
+            android:paddingTop="@ref/0x7f060138"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060137"
+            android:minHeight="@ref/0x7f060136"
+            android:layout_marginStart="@ref/0x7f060137">
+
+            <FrameLayout
+                android:id="@ref/0x7f080125"
+                android:layout_width="-1"
+                android:layout_height="-2"
+                android:layout_marginLeft="@ref/0x7f060135"
+                android:layout_marginRight="dimension(2049)"
+                android:layout_marginBottom="dimension(2049)"
+                android:layout_weight="1065353216.000000"
+                android:layout_marginStart="@ref/0x7f060135"
+                android:layout_marginEnd="dimension(2049)">
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@ref/0x7f080144"
+                android:paddingTop="@ref/0x7f06013b"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginRight="dimension(2049)"
+                android:layout_marginEnd="dimension(2049)">
+
+                <ViewStub
+                    android:layout_gravity="0x800035"
+                    android:id="@ref/0x7f0801a7"
+                    android:visibility="2"
+                    android:layout="@ref/0x7f0b00d2"
+                    android:layout_width="-2"
+                    android:layout_height="-2" />
+
+                <ViewStub
+                    android:layout_gravity="0x800035"
+                    android:id="@ref/0x7f080070"
+                    android:visibility="2"
+                    android:layout="@ref/0x7f0b00d1"
+                    android:layout_width="-2"
+                    android:layout_height="-2" />
+
+                <LinearLayout
+                    android:layout_gravity="0x800055"
+                    android:orientation="0"
+                    android:layout_width="-1"
+                    android:layout_height="-2"
+                    android:layout_marginTop="dimension(5121)">
+
+                    <TextView
+                        android:textAppearance="@ref/0x7f10015a"
+                        android:id="@ref/0x7f0800d7"
+                        android:layout_width="-2"
+                        android:layout_height="-2"
+                        android:singleLine="true" />
+
+                    <ImageView
+                        android:layout_gravity="0x11"
+                        android:id="@ref/0x7f080143"
+                        android:visibility="2"
+                        android:layout_width="dimension(4097)"
+                        android:layout_height="dimension(4097)"
+                        android:layout_marginLeft="dimension(2049)"
+                        android:scaleType="7"
+                        android:alpha="1058642304.000000"
+                        android:layout_marginStart="dimension(2049)" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@ref/0x7f080039"
+            android:background="@attr/0x101032c"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(256)"
+            android:layout_marginLeft="@ref/0x7f060137"
+            android:layout_marginStart="@ref/0x7f060137" />
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f080042"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060137"
+            android:divider="@attr/0x1010214"
+            android:showDividers="0x2"
+            android:dividerPadding="dimension(3073)"
+            android:layout_marginStart="@ref/0x7f060137">
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(16385)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f080126"
+        android:paddingTop="@ref/0x7f060138"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:minHeight="@ref/0x7f060136"
+        android:layout_weight="1065353216.000000"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        android:layout_toStartOf="@ref/0x7f080064">
+
+        <FrameLayout
+            android:id="@ref/0x7f080125"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060135"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginBottom="dimension(2049)"
+            android:layout_weight="1065353216.000000"
+            android:layout_marginStart="@ref/0x7f060135"
+            android:layout_marginEnd="dimension(2049)">
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:id="@ref/0x7f080144"
+            android:paddingTop="@ref/0x7f06013b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginRight="dimension(2049)"
+            android:layout_marginEnd="dimension(2049)">
+
+            <DateTimeView
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f0801a7"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <Chronometer
+                android:textAppearance="@ref/0x7f100160"
+                android:layout_gravity="0x800035"
+                android:id="@ref/0x7f080070"
+                android:visibility="2"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:singleLine="true" />
+
+            <TextView
+                android:textAppearance="@ref/0x7f10015b"
+                android:layout_gravity="0x800055"
+                android:id="@ref/0x7f0800d7"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginTop="dimension(5121)"
+                android:singleLine="true" />
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_gravity="0x800015"
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layoutDirection="0">
+
+    </LinearLayout>
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="-1"
+        android:layout_marginRight="dimension(1537)"
+        android:layout_marginEnd="dimension(1537)"
+        layout="@ref/0x7f0b00c7" />
+
+    <ImageView
+        android:id="@ref/0x7f0800a7"
+        android:layout_width="dimension(1537)"
+        android:layout_height="-1" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:paddingTop="dimension(513)"
+    android:paddingRight="dimension(2049)"
+    android:paddingBottom="dimension(513)"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:paddingEnd="dimension(2049)">
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800e3"
+        android:paddingTop="dimension(1537)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060135"
+        android:layout_marginStart="@ref/0x7f060135">
+
+        <TextView
+            android:textAppearance="@ref/0x7f100162"
+            android:ellipsize="4"
+            android:id="@ref/0x7f0801a8"
+            android:fadingEdge="0x1000"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="1065353216.000000" />
+
+        <DateTimeView
+            android:textAppearance="@ref/0x7f100160"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f0801a7"
+            android:paddingLeft="dimension(2049)"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="0.000000"
+            android:paddingStart="dimension(2049)" />
+
+        <Chronometer
+            android:textAppearance="@ref/0x7f100160"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f080070"
+            android:paddingLeft="dimension(2049)"
+            android:visibility="2"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="0.000000"
+            android:paddingStart="dimension(2049)" />
+    </LinearLayout>
+
+    <TextView
+        android:textAppearance="@ref/0x7f10015d"
+        android:ellipsize="4"
+        android:id="@ref/0x7f08019c"
+        android:visibility="2"
+        android:fadingEdge="0x1000"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060135"
+        android:layout_marginTop="dimension(-511)"
+        android:layout_marginBottom="dimension(-511)"
+        android:singleLine="true"
+        android:layout_marginStart="@ref/0x7f060135" />
+
+    <LinearLayout
+        android:gravity="0x10"
+        android:orientation="0"
+        android:id="@ref/0x7f0800e4"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060135"
+        android:layout_marginStart="@ref/0x7f060135">
+
+        <TextView
+            android:textAppearance="@ref/0x7f10015e"
+            android:ellipsize="4"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f08019b"
+            android:fadingEdge="0x1000"
+            android:layout_width="dimension(1)"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="1065353216.000000" />
+
+        <TextView
+            android:textAppearance="@ref/0x7f10015b"
+            android:gravity="0x11"
+            android:layout_gravity="0x11"
+            android:id="@ref/0x7f0800d7"
+            android:paddingLeft="dimension(2049)"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:layout_weight="0.000000"
+            android:paddingStart="dimension(2049)" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+
+    <TextView
+        android:textAppearance="@attr/0x7f030266"
+        android:textColor="@attr/0x7f0300b9"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080168"
+        android:paddingLeft="@ref/0x7f060080"
+        android:paddingTop="@ref/0x7f060081"
+        android:paddingRight="@ref/0x7f060080"
+        android:paddingBottom="@ref/0x7f060081"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:maxLines="@ref/0x7f090006"
+        android:layout_weight="1065353216.000000"
+        android:alpha="@ref/0x7f06009a"
+        android:textAlignment="5" />
+
+    <Button
+        android:layout_gravity="0x800015"
+        android:id="@ref/0x7f080167"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f06007d"
+        android:minWidth="dimension(12289)"
+        android:layout_marginStart="@ref/0x7f06007d"
+        style="@attr/0x7f030226" />
+</view>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x50"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.SnackbarContentLayout">
+
+    <TextView
+        android:textAppearance="@ref/0x7f100169"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080168"
+        android:paddingLeft="@ref/0x7f060080"
+        android:paddingTop="@ref/0x7f060081"
+        android:paddingRight="@ref/0x7f060080"
+        android:paddingBottom="@ref/0x7f060081"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:maxLines="@ref/0x7f090006"
+        android:layout_weight="1065353216.000000"
+        android:textAlignment="5" />
+
+    <Button
+        android:textColor="@attr/0x7f0300a5"
+        android:layout_gravity="0x800015"
+        android:id="@ref/0x7f080167"
+        android:visibility="2"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f06007d"
+        android:minWidth="dimension(12289)"
+        android:layout_marginStart="@ref/0x7f06007d"
+        style="@attr/0x7f030053" />
+</view>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(32769)">
+
+    <ImageView
+        android:id="@ref/0x7f0800d1"
+        android:layout_width="dimension(32769)"
+        android:layout_height="dimension(32769)"
+        android:scaleType="6" />
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(513)"
+        android:layout_marginRight="dimension(513)"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        layout="@ref/0x7f0b00c7" />
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(32769)"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        android:layout_marginStart="dimension(32769)"
+        android:layout_toStartOf="@ref/0x7f080064"
+        layout="@ref/0x7f0b00ce" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-1"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(3073)"
+        android:layout_marginRight="dimension(3073)"
+        android:layout_toRightOf="@ref/0x7f0800d1"
+        android:layout_alignParentBottom="true"
+        android:layoutDirection="0"
+        android:layout_toEndOf="@ref/0x7f0800d1">
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@ref/0x7f080039"
+        android:background="@attr/0x101032c"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_toRightOf="@ref/0x7f0800d1"
+        android:layout_above="@ref/0x7f0800ed"
+        android:layout_toEndOf="@ref/0x7f0800d1" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(32769)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(513)"
+        android:layout_marginRight="dimension(513)"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        layout="@ref/0x7f0b00c7" />
+
+    <include
+        android:layout_gravity="0x70"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="@ref/0x7f060137"
+        android:layout_toLeftOf="@ref/0x7f080064"
+        android:layout_marginStart="@ref/0x7f060137"
+        android:layout_toStartOf="@ref/0x7f080064"
+        layout="@ref/0x7f0b00ce" />
+
+    <LinearLayout
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-1"
+        android:layout_height="dimension(12289)"
+        android:layout_marginLeft="dimension(3073)"
+        android:layout_marginRight="dimension(3073)"
+        android:layout_alignParentBottom="true"
+        android:layoutDirection="0">
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@ref/0x7f080039"
+        android:background="@attr/0x101032c"
+        android:layout_width="-1"
+        android:layout_height="dimension(257)"
+        android:layout_above="@ref/0x7f0800ed" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:id="@ref/0x7f0801ad"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:gravity="0x800013"
+        android:orientation="0"
+        android:id="@ref/0x7f0801aa"
+        android:paddingLeft="@attr/0x7f0300e6"
+        android:paddingTop="@ref/0x7f060025"
+        android:paddingRight="@attr/0x7f0300e6"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <ImageView
+            android:id="@ref/0x01020006"
+            android:layout_width="dimension(8193)"
+            android:layout_height="dimension(8193)"
+            android:layout_marginRight="dimension(2049)"
+            android:src="@ref/0x00000000"
+            android:scaleType="3"
+            android:layout_marginEnd="dimension(2049)" />
+
+        <androidx.appcompat.widget.DialogTitle
+            android:ellipsize="3"
+            android:layout_gravity="0x800003"
+            android:id="@ref/0x7f08004c"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:singleLine="true"
+            android:textAlignment="5"
+            style="@attr/0x101005b" />
+    </LinearLayout>
+
+    <android.widget.Space
+        android:id="@ref/0x7f0801a9"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f060026" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080060"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:fillViewport="true"
+    style="@attr/0x7f030066">
+
+    <androidx.appcompat.widget.ButtonBarLayout
+        android:gravity="0x50"
+        android:orientation="0"
+        android:paddingLeft="dimension(2049)"
+        android:paddingTop="dimension(513)"
+        android:paddingRight="dimension(2049)"
+        android:paddingBottom="dimension(513)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layoutDirection="3"
+        android:paddingStart="dimension(2049)"
+        android:paddingEnd="dimension(2049)">
+
+        <Button
+            android:id="@ref/0x0102001b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030064" />
+
+        <android.widget.Space
+            android:id="@ref/0x7f08016c"
+            android:visibility="1"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000" />
+
+        <Button
+            android:id="@ref/0x0102001a"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030063" />
+
+        <Button
+            android:id="@ref/0x01020019"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030065" />
+    </androidx.appcompat.widget.ButtonBarLayout>
+</ScrollView>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enabled="false"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:background="@ref/0x00000000"
+    android:paddingLeft="dimension(1025)"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    android:paddingStart="dimension(1025)"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:enabled="false"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7"
+        android:alpha="1056964608.000000" />
+
+    <TextView
+        android:enabled="false"
+        android:textColor="rgb4(0xffcccccc)"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:paddingLeft="dimension(1025)"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:alpha="1056964608.000000"
+        android:paddingStart="dimension(1025)"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080060"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:fillViewport="true"
+    style="@attr/0x7f030066">
+
+    <androidx.appcompat.widget.ButtonBarLayout
+        android:gravity="0x50"
+        android:orientation="0"
+        android:paddingLeft="dimension(3073)"
+        android:paddingTop="dimension(1025)"
+        android:paddingRight="dimension(3073)"
+        android:paddingBottom="dimension(1025)"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layoutDirection="3">
+
+        <Button
+            android:id="@ref/0x0102001b"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030064" />
+
+        <android.widget.Space
+            android:id="@ref/0x7f08016c"
+            android:visibility="1"
+            android:layout_width="dimension(1)"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000" />
+
+        <Button
+            android:id="@ref/0x0102001a"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030063" />
+
+        <Button
+            android:id="@ref/0x01020019"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            style="@attr/0x7f030065" />
+    </androidx.appcompat.widget.ButtonBarLayout>
+</ScrollView>
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="@ref/0x7f0600d7">
+
+    <LinearLayout
+        android:layout_gravity="0x30"
+        android:orientation="0"
+        android:id="@ref/0x7f080115"
+        android:paddingLeft="@ref/0x7f0600d4"
+        android:paddingRight="@ref/0x7f0600d4"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600d7"
+        android:baselineAligned="false"
+        android:paddingStart="@ref/0x7f0600d4"
+        android:paddingEnd="@ref/0x7f0600d4"
+        style="@attr/0x7f0301d2">
+
+        <FrameLayout
+            android:id="@ref/0x7f080117"
+            android:paddingLeft="@ref/0x7f0600da"
+            android:layout_width="dimension(1)"
+            android:layout_height="-1"
+            android:layout_weight="1065353216.000000"
+            android:paddingStart="@ref/0x7f0600da">
+
+            <include
+                layout="@ref/0x7f0b00bf" />
+
+            <include
+                layout="@ref/0x7f0b00be" />
+        </FrameLayout>
+
+        <include
+            layout="@ref/0x7f0b00c0" />
+    </LinearLayout>
+
+    <View
+        android:layout_gravity="0x50"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f0600d6"
+        style="@attr/0x7f0301d1" />
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="0x800003"
+    android:id="@ref/0x7f08015b"
+    android:scrollbars="0x200"
+    android:fadingEdge="0x0"
+    android:clipToPadding="false"
+    android:layout_width="-1"
+    android:layout_height="-1"
+    android:cacheColorHint="@ref/0x00000000"
+    android:divider="@attr/0x7f0301b8"
+    android:overScrollMode="1"
+    android:textAlignment="5"
+    app:paddingBottomNoButtons="@ref/0x7f060020"
+    app:paddingTopNoTitle="@ref/0x7f060021"
+    class="androidx.appcompat.app.AlertController$RecycleListView"
+    style="@ref/0x7f100228" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:paddingLeft="dimension(1025)"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    android:paddingStart="dimension(1025)"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7" />
+
+    <TextView
+        android:textColor="rgb4(0xffcccccc)"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:paddingLeft="dimension(1025)"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:paddingStart="dimension(1025)"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.FitWindowsLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <TextView
+        android:ellipsize="3"
+        android:layout_gravity="0x800003"
+        android:id="@ref/0x7f0801a8"
+        android:paddingLeft="@attr/0x7f0300e6"
+        android:paddingTop="@ref/0x7f060025"
+        android:paddingRight="@attr/0x7f0300e6"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:textAlignment="5"
+        style="@attr/0x101005b" />
+
+    <include
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        layout="@ref/0x7f0b0014" />
+</androidx.appcompat.widget.FitWindowsLinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080178"
+    android:layout_width="-1"
+    android:layout_height="dimension(16385)">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <include
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        layout="@ref/0x7f0b00ce" />
+
+    <LinearLayout
+        android:layout_gravity="0x800015"
+        android:orientation="0"
+        android:id="@ref/0x7f0800ed"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:layoutDirection="0">
+
+    </LinearLayout>
+
+    <include
+        android:layout_width="dimension(12289)"
+        android:layout_height="-1"
+        android:layout_marginRight="dimension(1537)"
+        android:layout_marginEnd="dimension(1537)"
+        layout="@ref/0x7f0b00c7" />
+
+    <ImageView
+        android:id="@ref/0x7f0800a7"
+        android:layout_width="dimension(1537)"
+        android:layout_height="-1" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="1"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+    <TextView
+        android:textAppearance="@ref/0x7f100145"
+        android:textColor="@attr/0x7f03029c"
+        android:ellipsize="3"
+        android:id="@ref/0x7f0800ef"
+        android:background="@attr/0x7f03029d"
+        android:paddingLeft="@ref/0x7f060149"
+        android:paddingTop="@ref/0x7f06014d"
+        android:paddingRight="@ref/0x7f060149"
+        android:paddingBottom="@ref/0x7f06014d"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_margin="@ref/0x7f06014a"
+        android:maxWidth="dimension(65537)"
+        android:maxLines="3"
+        android:paddingStart="@ref/0x7f060149"
+        android:paddingEnd="@ref/0x7f060149" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x1"
+    android:orientation="1"
+    android:layout_width="dimension(69121)"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:layout_gravity="0x1"
+        android:orientation="0"
+        android:id="@ref/0x7f08012d"
+        android:layout_width="-2"
+        android:layout_height="-2">
+
+        <NumberPicker
+            android:id="@ref/0x7f0800fa"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="dimension(20481)"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_marginRight="dimension(257)"
+            android:layout_marginStart="dimension(257)"
+            android:layout_marginEnd="dimension(257)" />
+
+        <NumberPicker
+            android:id="@ref/0x7f08008f"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="dimension(20481)"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_marginRight="dimension(257)"
+            android:layout_marginStart="dimension(257)"
+            android:layout_marginEnd="dimension(257)" />
+
+        <NumberPicker
+            android:id="@ref/0x7f0801d0"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_width="dimension(24321)"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(257)"
+            android:layout_marginRight="dimension(257)"
+            android:layout_marginStart="dimension(257)"
+            android:layout_marginEnd="dimension(257)" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="@ref/0x7f09000d"
+    android:layout_width="-2"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b00bc" />
+
+    <LinearLayout
+        android:orientation="1"
+        android:id="@ref/0x7f08010c"
+        android:layout_width="-2"
+        android:layout_height="-1">
+
+        <FrameLayout
+            android:id="@ref/0x7f08010b"
+            android:paddingLeft="@ref/0x7f0600cb"
+            android:paddingRight="@ref/0x7f0600cb"
+            android:paddingBottom="@ref/0x7f0600ca"
+            android:layout_width="-1"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000"
+            android:paddingStart="@ref/0x7f0600cb"
+            android:paddingEnd="@ref/0x7f0600cb">
+
+        </FrameLayout>
+
+        <include
+            android:layout_width="-1"
+            android:layout_height="@ref/0x7f0600c8"
+            layout="@ref/0x7f0b00b9" />
+    </LinearLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x1010041"
+    android:textColor="@attr/0x7f03027c"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x1010219"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x1010219"
+    android:paddingStart="@ref/0x7f06003a"
+    android:paddingEnd="@attr/0x7f0300e6" />
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:textAppearance="@attr/0x1010041"
+    android:textColor="@attr/0x7f03027c"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x101021a"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x101021a"
+    android:paddingStart="@ref/0x7f06003a"
+    android:paddingEnd="@attr/0x7f0300e6" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:padding="dimension(2049)"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <TextView
+        android:id="@ref/0x7f08005f"
+        android:background="rgb4(0xffffffff)"
+        android:layout_width="dimension(2561)"
+        android:layout_height="dimension(2561)" />
+
+    <TextView
+        android:textSize="dimension(4098)"
+        android:gravity="0x10"
+        android:id="@ref/0x7f080093"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(4097)"
+        android:text="vjhvkjhb"
+        android:layout_marginStart="dimension(4097)" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:paddingLeft="dimension(4097)"
+    android:paddingRight="dimension(4097)"
+    android:layout_width="-1"
+    android:layout_height="@attr/0x7f0300f8"
+    android:minWidth="dimension(50177)">
+
+    <TextView
+        android:textAppearance="@attr/0x7f030275"
+        android:ellipsize="4"
+        android:layout_gravity="0x10"
+        android:id="@ref/0x01020016"
+        android:fadingEdge="0x1000"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:textAlignment="5" />
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@ref/0x7f08003f"
+    android:paddingLeft="dimension(2049)"
+    android:focusable="true"
+    android:clickable="true"
+    android:layout_width="-2"
+    android:layout_height="-1"
+    android:layout_marginRight="dimension(4097)"
+    android:contentDescription="@ref/0x7f0f0003"
+    android:paddingStart="dimension(2049)"
+    android:layout_marginEnd="dimension(4097)"
+    app:srcCompat="@attr/0x7f030015"
+    style="@attr/0x7f030014" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x800005"
+    android:orientation="0"
+    android:id="@ref/0x7f08008e"
+    android:paddingRight="@ref/0x7f0600c9"
+    android:layout_width="-1"
+    android:layout_height="@ref/0x7f0600c8"
+    android:paddingEnd="@ref/0x7f0600c9">
+
+    <Button
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080066"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="@ref/0x7f0f004c"
+        style="@attr/0x7f030063" />
+
+    <Button
+        android:layout_gravity="0x10"
+        android:id="@ref/0x7f080078"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:text="@ref/0x7f0f004d"
+        style="@attr/0x7f030065" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x1010219"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x1010219"
+    android:paddingStart="@ref/0x7f06003a"
+    android:paddingEnd="@attr/0x7f0300e6" />
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ellipsize="4"
+    android:gravity="0x10"
+    android:id="@ref/0x01020014"
+    android:paddingLeft="@ref/0x7f06003a"
+    android:paddingRight="@attr/0x7f0300e6"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:minHeight="@attr/0x7f0301bf"
+    android:drawableLeft="@attr/0x101021a"
+    android:drawablePadding="dimension(5121)"
+    android:drawableStart="@attr/0x101021a"
+    android:paddingStart="@ref/0x7f06003a"
+    android:paddingEnd="@attr/0x7f0300e6" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x1"
+    android:orientation="1"
+    android:id="@ref/0x7f080114"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b00bd" />
+
+    <FrameLayout
+        android:id="@ref/0x7f08010b"
+        android:paddingLeft="@ref/0x7f0600cb"
+        android:paddingRight="@ref/0x7f0600cb"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:paddingStart="@ref/0x7f0600cb"
+        android:paddingEnd="@ref/0x7f0600cb">
+
+    </FrameLayout>
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.CheckableImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x800015"
+    android:id="@ref/0x7f0801a1"
+    android:background="@attr/0x7f030004"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:minWidth="dimension(12289)"
+    android:minHeight="dimension(12289)"
+    android:layout_marginStart="@ref/0x7f06012e" />
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.internal.CheckableImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="0x800013"
+    android:id="@ref/0x7f0801a2"
+    android:background="@attr/0x7f030004"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    android:minWidth="dimension(12289)"
+    android:minHeight="dimension(12289)"
+    android:layout_marginEnd="@ref/0x7f060130" />
+<?xml version="1.0" encoding="utf-8"?>
+<NumberPicker
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080127"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="dimension(24321)"
+    android:layout_height="-2"
+    android:layout_marginLeft="dimension(257)"
+    android:layout_marginRight="dimension(257)"
+    android:layout_marginStart="dimension(257)"
+    android:layout_marginEnd="dimension(257)" />
+<?xml version="1.0" encoding="utf-8"?>
+<NumberPicker
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080127"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_width="dimension(20481)"
+    android:layout_height="-2"
+    android:layout_marginLeft="dimension(257)"
+    android:layout_marginRight="dimension(257)"
+    android:layout_marginStart="dimension(257)"
+    android:layout_marginEnd="dimension(257)" />
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Report Health and Safety Issue"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:textSize="dimension(4609)"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x800003"
+            android:layout_gravity="0x800003"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="Title" />
+
+        <EditText
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="dimension(10241)"
+            android:hint="title" />
+
+        <TextView
+            android:textSize="dimension(4609)"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x800003"
+            android:layout_gravity="0x800003"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="Description" />
+
+        <EditText
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="description"
+            android:minLines="7" />
+
+        <TextView
+            android:gravity="0x11"
+            android:id="@ref/0x7f0801bb"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingTop="dimension(1281)"
+            android:paddingRight="dimension(2561)"
+            android:paddingBottom="dimension(1281)"
+            android:layout_width="-1"
+            android:layout_height="dimension(10241)"
+            android:layout_marginTop="dimension(1793)"
+            android:layout_marginBottom="dimension(1793)"
+            android:text="Continue"
+            android:layout_above="@ref/0x7f08005e" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080065"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Ask Us Anything"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:textSize="dimension(4609)"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x800003"
+            android:layout_gravity="0x800003"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="Title" />
+
+        <EditText
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="dimension(10241)"
+            android:hint="title" />
+
+        <TextView
+            android:textSize="dimension(4609)"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x800003"
+            android:layout_gravity="0x800003"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginTop="dimension(1281)"
+            android:layout_marginBottom="dimension(1281)"
+            android:text="Description" />
+
+        <EditText
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="description"
+            android:minLines="7" />
+
+        <TextView
+            android:gravity="0x11"
+            android:id="@ref/0x7f0801bb"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingTop="dimension(1281)"
+            android:paddingRight="dimension(2561)"
+            android:paddingBottom="dimension(1281)"
+            android:layout_width="-1"
+            android:layout_height="dimension(10241)"
+            android:layout_marginTop="dimension(1793)"
+            android:layout_marginBottom="dimension(1793)"
+            android:text="Continue"
+            android:layout_above="@ref/0x7f08005e" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080065"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(102401)"
+        android:layout_height="dimension(102401)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Log Out"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_marginTop="dimension(2561)"
+            android:layout_marginBottom="dimension(2561)"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:gravity="0x11"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:minHeight="dimension(10241)"
+            android:hint="Thank you for using this application" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(10241)"
+        android:paddingTop="dimension(2561)"
+        android:paddingRight="dimension(10241)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Continue"
+        android:layout_above="@ref/0x7f08005e"
+        android:layout_centerHorizontal="true" />
+
+    <LinearLayout
+        android:gravity="0x800005"
+        android:orientation="0"
+        android:id="@ref/0x7f08005e"
+        android:layout_width="-1"
+        android:layout_height="dimension(12801)"
+        android:layout_alignParentBottom="true">
+
+        <ImageView
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:src="@ref/0x7f0d0000" />
+
+        <ImageView
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(1281)"
+            android:layout_marginRight="dimension(1281)"
+            android:src="@ref/0x7f0d0006" />
+
+        <ImageView
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:src="@ref/0x7f0d0005" />
+
+        <ImageView
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginLeft="dimension(1281)"
+            android:src="@ref/0x7f0d0001" />
+    </LinearLayout>
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Terms and Condition"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_marginTop="dimension(2561)"
+            android:layout_marginBottom="dimension(2561)"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="When using this application you agree to our terms and condition"
+            android:minLines="7" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Privacy Policy"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_marginTop="dimension(2561)"
+            android:layout_marginBottom="dimension(2561)"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="When using this application you agree to our privacy policy"
+            android:minLines="7" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Privacy Policy"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_marginTop="dimension(2561)"
+            android:layout_marginBottom="dimension(2561)"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="When using this application you agree to our privacy policy"
+            android:minLines="7" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Settings Space Usage"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="This app use 100MB space in phone"
+            android:hint="space"
+            android:minLines="7" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Settings About"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:text="The System app is registration application which was create in 2019"
+            android:minLines="7" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(5121)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginBottom="dimension(2561)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001b"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Settings Change Site"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:gravity="0x11"
+        android:orientation="1"
+        android:paddingTop="dimension(2561)"
+        android:paddingBottom="dimension(2561)"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)">
+
+        <View
+            android:background="rgb8(0xff333333)"
+            android:layout_width="dimension(76801)"
+            android:layout_height="dimension(513)"
+            android:layout_centerHorizontal="true" />
+
+        <EditText
+            android:gravity="0x800003"
+            android:background="@ref/0x7f0700b7"
+            android:paddingLeft="dimension(2561)"
+            android:paddingRight="dimension(2561)"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:hint="Direct link to moodle"
+            android:minLines="7" />
+    </LinearLayout>
+
+    <TextView
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(2561)"
+        android:paddingTop="dimension(1281)"
+        android:paddingRight="dimension(2561)"
+        android:paddingBottom="dimension(1281)"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(2561)"
+        android:layout_marginRight="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Back"
+        android:layout_above="@ref/0x7f08005e" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(7681)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(5121)"
+        android:layout_marginBottom="dimension(5121)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001a"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:id="@ref/0x7f080099"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Report Health and Safety Issue"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:textSize="dimension(8193)"
+        android:gravity="0x11"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(10241)"
+        android:layout_marginRight="dimension(10241)"
+        android:text="Your responce has been received and we will take is almost argency. Please allow us 5 working days to resopnce you. Thank you"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)" />
+
+    <TextView
+        android:textSize="dimension(4609)"
+        android:textColor="@ref/0x7f05002e"
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(5121)"
+        android:paddingRight="dimension(5121)"
+        android:layout_width="-2"
+        android:layout_height="dimension(10241)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Continue"
+        android:layout_above="@ref/0x7f08005e"
+        android:layout_centerHorizontal="true" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@ref/0x7f05001a"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <ImageView
+        android:id="@ref/0x7f0800ea"
+        android:layout_width="dimension(33281)"
+        android:layout_height="dimension(33281)"
+        android:layout_margin="dimension(7681)"
+        android:src="@ref/0x7f0d0002"
+        android:scaleType="1"
+        android:layout_centerHorizontal="true" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@ref/0x7f08009a"
+        android:layout_width="dimension(76801)"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(5121)"
+        android:layout_marginBottom="dimension(5121)"
+        android:layout_below="@ref/0x7f0800ea"
+        android:layout_centerHorizontal="true"
+        app:cardBackgroundColor="@ref/0x7f05001a"
+        app:cardCornerRadius="dimension(1281)"
+        app:cardElevation="dimension(513)">
+
+        <TextView
+            android:textSize="@ref/0x7f060141"
+            android:textColor="@ref/0x7f050031"
+            android:gravity="0x11"
+            android:layout_gravity="0x1"
+            android:id="@ref/0x7f080099"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:layout_marginBottom="dimension(2561)"
+            android:text="Ask Us Anything"
+            android:layout_centerHorizontal="true" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:textSize="dimension(8193)"
+        android:gravity="0x11"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(10241)"
+        android:layout_marginRight="dimension(10241)"
+        android:text="We have received your query please allow Us 5 working days to resopnce you. Thank you"
+        android:layout_below="@ref/0x7f08009a"
+        android:layout_centerHorizontal="true"
+        android:elevation="dimension(1281)" />
+
+    <TextView
+        android:textSize="dimension(4609)"
+        android:textColor="@ref/0x7f05002e"
+        android:gravity="0x11"
+        android:id="@ref/0x7f080059"
+        android:background="@ref/0x7f0700b7"
+        android:paddingLeft="dimension(5121)"
+        android:paddingRight="dimension(5121)"
+        android:layout_width="-2"
+        android:layout_height="dimension(10241)"
+        android:layout_marginTop="dimension(2561)"
+        android:layout_marginBottom="dimension(2561)"
+        android:text="Continue"
+        android:layout_above="@ref/0x7f08005e"
+        android:layout_centerHorizontal="true" />
+
+    <include
+        layout="@ref/0x7f0b008a" />
+</RelativeLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080124"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <include
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        layout="@ref/0x7f0b00cd" />
+
+    <LinearLayout
+        android:layout_gravity="0x30"
+        android:orientation="1"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginStart="@ref/0x7f060137">
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f080126"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:minHeight="@ref/0x7f060136">
+
+            <FrameLayout
+                android:id="@ref/0x7f080125"
+                android:layout_width="-1"
+                android:layout_height="-2"
+                android:layout_marginBottom="dimension(2049)"
+                android:layout_weight="1065353216.000000"
+                android:layout_marginEnd="dimension(2049)">
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@ref/0x7f080144"
+                android:paddingTop="@ref/0x7f06013b"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginEnd="dimension(2049)">
+
+                <ViewStub
+                    android:layout_gravity="0x800035"
+                    android:id="@ref/0x7f0801a7"
+                    android:visibility="2"
+                    android:layout="@ref/0x7f0b00d2"
+                    android:layout_width="-2"
+                    android:layout_height="-2" />
+
+                <ViewStub
+                    android:layout_gravity="0x800035"
+                    android:id="@ref/0x7f080070"
+                    android:visibility="2"
+                    android:layout="@ref/0x7f0b00d1"
+                    android:layout_width="-2"
+                    android:layout_height="-2" />
+
+                <TextView
+                    android:textAppearance="@ref/0x7f10015a"
+                    android:layout_gravity="0x800055"
+                    android:id="@ref/0x7f0800d7"
+                    android:layout_width="-2"
+                    android:layout_height="-2"
+                    android:layout_marginTop="dimension(5121)"
+                    android:singleLine="true" />
+            </FrameLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@ref/0x7f080039"
+            android:background="argb8(0x29000000)"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(257)" />
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f080042"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginStart="dimension(-2047)">
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ActionBarOverlayLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@ref/0x7f080090"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b0014" />
+
+    <androidx.appcompat.widget.ActionBarContainer
+        android:gravity="0x30"
+        android:id="@ref/0x7f080032"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_alignParentTop="true"
+        android:touchscreenBlocksFocus="true"
+        style="@attr/0x7f030008">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@ref/0x7f080030"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            app:navigationContentDescription="@ref/0x7f0f0001"
+            style="@attr/0x7f03029b" />
+
+        <androidx.appcompat.widget.ActionBarContextView
+            android:theme="@attr/0x7f03000c"
+            android:id="@ref/0x7f080038"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            style="@attr/0x7f03001e" />
+    </androidx.appcompat.widget.ActionBarContainer>
+</androidx.appcompat.widget.ActionBarOverlayLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x11"
+    android:orientation="0"
+    android:id="@ref/0x7f08005e"
+    android:background="@ref/0x7f05001b"
+    android:padding="dimension(1281)"
+    android:layout_width="-1"
+    android:layout_height="dimension(12801)"
+    android:layout_alignParentBottom="true">
+
+    <ImageView
+        android:id="@ref/0x7f0800ce"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:src="@ref/0x7f070090"
+        android:layout_weight="1065353216.000000"
+        android:elevation="dimension(769)" />
+
+    <ImageView
+        android:id="@ref/0x7f080062"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(1281)"
+        android:layout_marginRight="dimension(1281)"
+        android:src="@ref/0x7f07008e"
+        android:layout_weight="1065353216.000000"
+        android:elevation="dimension(769)" />
+
+    <ImageView
+        android:id="@ref/0x7f0800ef"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:src="@ref/0x7f070088"
+        android:layout_weight="1065353216.000000"
+        android:elevation="dimension(769)" />
+
+    <ImageView
+        android:id="@ref/0x7f080102"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(1281)"
+        android:src="@ref/0x7f07008a"
+        android:layout_weight="1065353216.000000"
+        android:elevation="dimension(769)" />
+
+    <ImageView
+        android:id="@ref/0x7f080104"
+        android:layout_width="dimension(1)"
+        android:layout_height="-2"
+        android:layout_marginLeft="dimension(1281)"
+        android:src="@ref/0x7f07009c"
+        android:layout_weight="1065353216.000000"
+        android:elevation="dimension(769)" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enabled="false"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:background="@ref/0x00000000"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    android:paddingStart="dimension(1025)"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:enabled="false"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7"
+        android:alpha="1056964608.000000" />
+
+    <TextView
+        android:enabled="false"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:alpha="1056964608.000000"
+        android:paddingStart="dimension(1025)"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enabled="false"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:background="@ref/0x00000000"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    android:paddingStart="dimension(1025)"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:enabled="false"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7"
+        android:alpha="1056964608.000000" />
+
+    <TextView
+        android:enabled="false"
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:alpha="1056964608.000000"
+        android:paddingStart="dimension(1025)"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="0"
+    android:id="@ref/0x7f080037"
+    android:layout_width="dimension(1)"
+    android:layout_height="dimension(12289)"
+    android:layout_weight="1065353216.000000"
+    android:paddingStart="dimension(1025)"
+    style="@ref/0x7f10023f">
+
+    <ImageView
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f08003a"
+        android:layout_width="@ref/0x7f060132"
+        android:layout_height="@ref/0x7f060132"
+        android:scaleType="7" />
+
+    <TextView
+        android:ellipsize="3"
+        android:layout_gravity="0x800013"
+        android:id="@ref/0x7f080041"
+        android:clickable="false"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:singleLine="true"
+        android:paddingStart="dimension(1025)"
+        style="@ref/0x7f100240" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f0800d2"
+    android:layout_width="@ref/0x7f060137"
+    android:layout_height="@ref/0x7f060136">
+
+    <ImageView
+        android:id="@ref/0x7f0800d1"
+        android:layout_width="-1"
+        android:layout_height="-1"
+        android:layout_marginTop="@ref/0x7f060134"
+        android:layout_marginBottom="@ref/0x7f060134"
+        android:scaleType="7"
+        android:layout_marginStart="@ref/0x7f060134"
+        android:layout_marginEnd="@ref/0x7f060134" />
+
+    <ImageView
+        android:layout_gravity="0x800055"
+        android:id="@ref/0x7f080143"
+        android:visibility="2"
+        android:layout_width="@ref/0x7f06013a"
+        android:layout_height="@ref/0x7f06013a"
+        android:layout_marginBottom="dimension(2049)"
+        android:scaleType="7"
+        android:layout_marginEnd="dimension(2049)" />
+</FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="-2"
+    android:layout_height="-2">
+
+    <CheckBox
+        android:id="@ref/0x7f080199"
+        android:background="@attr/0x1010031"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:buttonTint="@ref/0x7f05002c" />
+
+    <CheckBox
+        android:id="@ref/0x7f08019a"
+        android:background="@attr/0x1010031"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        app:buttonTint="@ref/0x7f05002c" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.MaterialToolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:elevation="@ref/0x7f06005b" />
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+
+    <scale
+        android:interpolator="@ref/0x010a0006"
+        android:duration="@ref/0x7f090000"
+        android:pivotX="fraction(1073741872)"
+        android:pivotY="fraction(256)"
+        android:fromXScale="1065353216.000000"
+        android:toXScale="1063675520.000000"
+        android:fromYScale="1065353216.000000"
+        android:toYScale="1063675520.000000" />
+
+    <alpha
+        android:interpolator="@ref/0x010a0006"
+        android:duration="@ref/0x7f090001"
+        android:fromAlpha="1065353216.000000"
+        android:toAlpha="0.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+
+    <scale
+        android:interpolator="@ref/0x010a0006"
+        android:duration="@ref/0x7f090000"
+        android:pivotX="fraction(1073741872)"
+        android:pivotY="fraction(256)"
+        android:fromXScale="1063675520.000000"
+        android:toXScale="1065353216.000000"
+        android:fromYScale="1063675520.000000"
+        android:toYScale="1065353216.000000" />
+
+    <alpha
+        android:interpolator="@ref/0x010a0006"
+        android:duration="@ref/0x7f090001"
+        android:fromAlpha="0.000000"
+        android:toAlpha="1065353216.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <set
+        android:ordering="1">
+
+        <objectAnimator
+            android:interpolator="@ref/0x7f0a0006"
+            android:duration="183"
+            android:valueFrom="1073741824.000000"
+            android:valueTo="1073741824.000000"
+            android:valueType="0"
+            android:propertyName="strokeWidth" />
+
+        <objectAnimator
+            android:interpolator="@ref/0x7f0a0006"
+            android:duration="16"
+            android:valueFrom="1073741824.000000"
+            android:valueTo="1099956224.000000"
+            android:valueType="0"
+            android:propertyName="strokeWidth" />
+
+        <objectAnimator
+            android:interpolator="@ref/0x7f0a0006"
+            android:duration="300"
+            android:valueFrom="1099956224.000000"
+            android:valueTo="1073741824.000000"
+            android:valueType="0"
+            android:propertyName="strokeWidth" />
+    </set>
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0004"
+    android:duration="@ref/0x7f090003">
+
+    <translate
+        android:fromYDelta="fraction(429496881)"
+        android:toYDelta="0.000000" />
+
+    <alpha
+        android:fromAlpha="0.000000"
+        android:toAlpha="1065353216.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0004"
+    android:duration="250">
+
+    <translate
+        android:fromYDelta="fraction(429496881)"
+        android:toYDelta="0.000000" />
+
+    <alpha
+        android:fromAlpha="0.000000"
+        android:toAlpha="1065353216.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0005"
+    android:duration="@ref/0x7f090003">
+
+    <translate
+        android:fromYDelta="0.000000"
+        android:toYDelta="fraction(429496881)" />
+
+    <alpha
+        android:fromAlpha="1065353216.000000"
+        android:toAlpha="0.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0005"
+    android:duration="200">
+
+    <translate
+        android:fromYDelta="0.000000"
+        android:toYDelta="fraction(429496881)" />
+
+    <alpha
+        android:fromAlpha="1065353216.000000"
+        android:toAlpha="0.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+
+    <alpha
+        android:interpolator="@ref/0x010a0006"
+        android:duration="@ref/0x7f090001"
+        android:fromAlpha="1065353216.000000"
+        android:toAlpha="0.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shareInterpolator="false">
+
+    <alpha
+        android:interpolator="@ref/0x010a0006"
+        android:duration="@ref/0x7f090001"
+        android:fromAlpha="0.000000"
+        android:toAlpha="1065353216.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0006"
+    android:duration="@ref/0x010e0001"
+    android:fromYDelta="fraction(-1073741775)"
+    android:toYDelta="0.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0005"
+    android:duration="@ref/0x010e0001"
+    android:fromYDelta="0.000000"
+    android:toYDelta="fraction(-1073741775)" />
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0006"
+    android:duration="@ref/0x010e0001"
+    android:fromYDelta="fraction(1073741873)"
+    android:toYDelta="0.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0005"
+    android:duration="@ref/0x010e0001"
+    android:fromYDelta="0.000000"
+    android:toYDelta="fraction(1073741873)" />
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0006"
+    android:duration="@ref/0x010e0001"
+    android:fromAlpha="1065353216.000000"
+    android:toAlpha="0.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010c0000"
+    android:duration="@ref/0x7f090005"
+    android:fromAlpha="1065353216.000000"
+    android:toAlpha="0.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010c0001"
+    android:duration="@ref/0x7f090005"
+    android:fromAlpha="0.000000"
+    android:toAlpha="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<alpha
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010a0006"
+    android:duration="@ref/0x010e0001"
+    android:fromAlpha="0.000000"
+    android:toAlpha="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="1053609152.000000"
+    android:controlY1="0.000000"
+    android:controlX2="1058642304.000000"
+    android:controlY2="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromYDelta="fraction(256)"
+    android:toYDelta="0.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<translate
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromYDelta="0.000000"
+    android:toYDelta="fraction(256)" />
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@ref/0x7f060012"
+    android:insetRight="@ref/0x7f060012"
+    android:insetTop="@ref/0x7f060013"
+    android:insetBottom="@ref/0x7f060013">
+
+    <ripple
+        android:color="@attr/0x101042c">
+
+        <item>
+
+            <selector>
+
+                <item
+                    android:state_enabled="false">
+
+                    <shape
+                        android:shape="0">
+
+                        <corners
+                            android:radius="@ref/0x7f060018" />
+
+                        <solid
+                            android:color="@attr/0x101042b" />
+
+                        <padding
+                            android:left="@ref/0x7f060014"
+                            android:top="@ref/0x7f060015"
+                            android:right="@ref/0x7f060014"
+                            android:bottom="@ref/0x7f060015" />
+                    </shape>
+                </item>
+
+                <item>
+
+                    <shape
+                        android:shape="0">
+
+                        <corners
+                            android:radius="@ref/0x7f060018" />
+
+                        <solid
+                            android:color="@attr/0x1010435" />
+
+                        <padding
+                            android:left="@ref/0x7f060014"
+                            android:top="@ref/0x7f060015"
+                            android:right="@ref/0x7f060014"
+                            android:bottom="@ref/0x7f060015" />
+                    </shape>
+                </item>
+            </selector>
+        </item>
+    </ripple>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="strike_through"
+        android:pathData="@ref/0x7f0f006b"
+        android:strokeColor="@ref/0x0106000b"
+        android:strokeWidth="1072064128.000000"
+        android:trimPathEnd="0.000000"
+        android:strokeLineCap="2" />
+
+    <group>
+
+        <clip-path
+            android:name="eye_mask"
+            android:pathData="@ref/0x7f0f006a" />
+
+        <path
+            android:name="eye"
+            android:fillColor="@ref/0x0106000b"
+            android:pathData="@ref/0x7f0f0068" />
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="strike_through"
+        android:pathData="@ref/0x7f0f006b"
+        android:strokeColor="@ref/0x0106000b"
+        android:strokeWidth="1072064128.000000"
+        android:strokeLineCap="2" />
+
+    <group>
+
+        <clip-path
+            android:name="eye_mask"
+            android:pathData="@ref/0x7f0f0069" />
+
+        <path
+            android:name="eye"
+            android:fillColor="@ref/0x0106000b"
+            android:pathData="@ref/0x7f0f0068" />
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@ref/0x7f0500c3">
+
+    <item
+        android:id="@ref/0x0102002e">
+
+        <inset
+            android:insetLeft="@ref/0x7f060053"
+            android:insetRight="@ref/0x7f060053"
+            android:insetTop="@ref/0x7f060054"
+            android:insetBottom="@ref/0x7f060054">
+
+            <shape
+                android:shape="0">
+
+                <corners
+                    android:radius="@ref/0x7f060057" />
+
+                <solid
+                    android:color="@ref/0x0106000b" />
+
+                <padding
+                    android:left="@ref/0x7f060055"
+                    android:top="@ref/0x7f060056"
+                    android:right="@ref/0x7f060055"
+                    android:bottom="@ref/0x7f060056" />
+            </shape>
+        </inset>
+    </item>
+</ripple>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@ref/0x7f06002d"
+    android:insetRight="@ref/0x7f06002d"
+    android:insetTop="@ref/0x7f06002e"
+    android:insetBottom="@ref/0x7f06002c">
+
+    <selector>
+
+        <item
+            android:state_enabled="false">
+
+            <nine-patch
+                android:src="@ref/0x7f070058"
+                android:tint="@attr/0x7f0300aa"
+                android:alpha="@attr/0x1010033" />
+        </item>
+
+        <item
+            android:state_focused="false"
+            android:state_pressed="false">
+
+            <nine-patch
+                android:src="@ref/0x7f070058"
+                android:tint="@attr/0x7f0300aa" />
+        </item>
+
+        <item>
+
+            <nine-patch
+                android:src="@ref/0x7f070057"
+                android:tint="@attr/0x7f0300a8" />
+        </item>
+    </selector>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:id="@ref/0x7f0801ca"
+        android:drawable="@ref/0x7f07007e" />
+
+    <item
+        android:id="@ref/0x7f0800ec"
+        android:drawable="@ref/0x7f07007f" />
+
+    <transition
+        android:drawable="@ref/0x7f07005f"
+        android:toId="@ref/0x7f0801ca"
+        android:fromId="@ref/0x7f0800ec" />
+
+    <transition
+        android:drawable="@ref/0x7f07005e"
+        android:toId="@ref/0x7f0800ec"
+        android:fromId="@ref/0x7f0801ca" />
+</animated-selector>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="dimension(4097)"
+    android:insetRight="dimension(4097)"
+    android:insetTop="dimension(4097)"
+    android:insetBottom="dimension(4097)">
+
+    <shape
+        android:shape="0">
+
+        <corners
+            android:radius="@attr/0x7f0300e5" />
+
+        <solid
+            android:color="@ref/0x0106000b" />
+    </shape>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:interpolator="@ref/0x010c000d"
+    android:duration="@ref/0x7f090009"
+    android:valueFrom="@ref/0x7f0f006a"
+    android:valueTo="@ref/0x7f0f0069"
+    android:valueType="2"
+    android:propertyName="pathData" />
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:interpolator="@ref/0x010c000f"
+    android:duration="@ref/0x7f090014"
+    android:valueFrom="@ref/0x7f0f0069"
+    android:valueTo="@ref/0x7f0f006a"
+    android:valueType="2"
+    android:propertyName="pathData" />
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:drawable="@ref/0x7f070003">
+
+    <target
+        android:name="eye_mask"
+        android:animation="@ref/0x7f070004" />
+
+    <target
+        android:name="strike_through"
+        android:animation="@ref/0x7f070005" />
+</animated-vector>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:drawable="@ref/0x7f070000">
+
+    <target
+        android:name="eye_mask"
+        android:animation="@ref/0x7f070001" />
+
+    <target
+        android:name="strike_through"
+        android:animation="@ref/0x7f070002" />
+</animated-vector>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@ref/0x01020000"
+        android:drawable="@ref/0x7f070029" />
+
+    <item
+        android:id="@ref/0x0102000f"
+        android:drawable="@ref/0x7f07002c" />
+
+    <item
+        android:id="@ref/0x0102000d">
+
+        <bitmap
+            android:src="@ref/0x7f070029"
+            android:tileModeX="1" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:interpolator="@ref/0x010c000f"
+    android:duration="@ref/0x7f090014"
+    android:valueFrom="1"
+    android:valueTo="0"
+    android:propertyName="trimPathEnd" />
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@ref/0x01020000"
+        android:drawable="@ref/0x7f07002a" />
+
+    <item
+        android:id="@ref/0x0102000f"
+        android:drawable="@ref/0x7f07002d" />
+
+    <item
+        android:id="@ref/0x0102000d">
+
+        <bitmap
+            android:src="@ref/0x7f07002a"
+            android:tileModeX="1" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:interpolator="@ref/0x010c000d"
+    android:duration="@ref/0x7f090009"
+    android:valueFrom="0"
+    android:valueTo="1"
+    android:propertyName="trimPathEnd" />
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x1010030">
+
+    <solid
+        android:color="argb8(0x1f000000)" />
+
+    <size
+        android:height="dimension(257)"
+        android:width="dimension(257)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@attr/0x7f0300b2" />
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@attr/0x101042c" />
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <selector>
+
+        <item
+            android:state_enabled="true"
+            android:state_pressed="true">
+
+            <set>
+
+                <objectAnimator
+                    android:duration="@ref/0x7f09000c"
+                    android:valueTo="@ref/0x7f06010c"
+                    android:valueType="0"
+                    android:propertyName="translationZ" />
+
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@ref/0x7f060100"
+                    android:valueType="0"
+                    android:propertyName="elevation" />
+            </set>
+        </item>
+
+        <item
+            android:state_enabled="true"
+            android:state_hovered="true">
+
+            <set>
+
+                <objectAnimator
+                    android:duration="@ref/0x7f09000c"
+                    android:valueTo="@ref/0x7f06010b"
+                    android:valueType="0"
+                    android:propertyName="translationZ" />
+
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@ref/0x7f060100"
+                    android:valueType="0"
+                    android:propertyName="elevation" />
+            </set>
+        </item>
+
+        <item
+            android:state_focused="true"
+            android:state_enabled="true">
+
+            <set>
+
+                <objectAnimator
+                    android:duration="@ref/0x7f09000c"
+                    android:valueTo="@ref/0x7f06010b"
+                    android:valueType="0"
+                    android:propertyName="translationZ" />
+
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@ref/0x7f060100"
+                    android:valueType="0"
+                    android:propertyName="elevation" />
+            </set>
+        </item>
+
+        <item
+            android:state_enabled="true">
+
+            <set>
+
+                <objectAnimator
+                    android:duration="@ref/0x7f09000c"
+                    android:valueTo="@ref/0x7f06010a"
+                    android:valueType="0"
+                    android:propertyName="translationZ"
+                    android:startDelay="@ref/0x7f09000b" />
+
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@ref/0x7f060100"
+                    android:valueType="0"
+                    android:propertyName="elevation" />
+            </set>
+        </item>
+
+        <item>
+
+            <set>
+
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@ref/0x7f0600ff"
+                    android:valueType="0"
+                    android:propertyName="translationZ" />
+
+                <objectAnimator
+                    android:duration="0"
+                    android:valueTo="@ref/0x7f0600fe"
+                    android:valueType="0"
+                    android:propertyName="elevation" />
+            </set>
+        </item>
+    </selector>
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600c1"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item
+        android:state_enabled="true"
+        android:state_hovered="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600b8"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600b7"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item
+        android:state_enabled="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600c7"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item>
+
+        <set>
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b5"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b4"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="150"
+        android:propertyName="elevation" />
+
+    <objectAnimator
+        android:duration="300"
+        android:startOffset="0"
+        android:propertyName="translationXLinear" />
+
+    <objectAnimator
+        android:duration="255"
+        android:startOffset="0"
+        android:propertyName="translationXCurveUpwards" />
+
+    <objectAnimator
+        android:duration="255"
+        android:startOffset="45"
+        android:propertyName="translationXCurveDownwards" />
+
+    <objectAnimator
+        android:duration="300"
+        android:startOffset="0"
+        android:propertyName="translationYLinear" />
+
+    <objectAnimator
+        android:duration="255"
+        android:startOffset="45"
+        android:propertyName="translationYCurveUpwards" />
+
+    <objectAnimator
+        android:duration="255"
+        android:startOffset="0"
+        android:propertyName="translationYCurveDownwards" />
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="150"
+        android:propertyName="iconFade" />
+
+    <objectAnimator
+        android:duration="180"
+        android:startOffset="0"
+        android:propertyName="expansion" />
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="60"
+        android:propertyName="color" />
+
+    <objectAnimator
+        android:duration="75"
+        android:startOffset="0"
+        android:propertyName="contentFade" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="0"
+        android:propertyName="elevation" />
+
+    <objectAnimator
+        android:duration="345"
+        android:startOffset="0"
+        android:propertyName="translationXLinear" />
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="0"
+        android:propertyName="translationXCurveUpwards" />
+
+    <objectAnimator
+        android:duration="345"
+        android:startOffset="0"
+        android:propertyName="translationXCurveDownwards" />
+
+    <objectAnimator
+        android:duration="345"
+        android:startOffset="0"
+        android:propertyName="translationYLinear" />
+
+    <objectAnimator
+        android:duration="345"
+        android:startOffset="0"
+        android:propertyName="translationYCurveUpwards" />
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="0"
+        android:propertyName="translationYCurveDownwards" />
+
+    <objectAnimator
+        android:duration="120"
+        android:startOffset="0"
+        android:propertyName="iconFade" />
+
+    <objectAnimator
+        android:duration="255"
+        android:startOffset="45"
+        android:propertyName="expansion" />
+
+    <objectAnimator
+        android:duration="75"
+        android:startOffset="75"
+        android:propertyName="color" />
+
+    <objectAnimator
+        android:duration="150"
+        android:startOffset="150"
+        android:propertyName="contentFade" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:state_enabled="true"
+        app:state_dragged="true">
+
+        <set>
+
+            <objectAnimator
+                android:interpolator="@ref/0x7f0a0008"
+                android:duration="@ref/0x7f090011"
+                android:valueTo="@ref/0x7f0600f4"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+        </set>
+    </item>
+
+    <item
+        android:state_enabled="true">
+
+        <set>
+
+            <objectAnimator
+                android:interpolator="@ref/0x7f01001e"
+                android:duration="@ref/0x7f090011"
+                android:valueTo="dimension(1)"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+        </set>
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true">
+
+        <objectAnimator
+            android:duration="@ref/0x7f090012"
+            android:valueTo="@ref/0x7f0600f7"
+            android:valueType="0"
+            android:propertyName="translationZ" />
+    </item>
+
+    <item
+        android:state_enabled="true">
+
+        <objectAnimator
+            android:duration="@ref/0x7f090012"
+            android:valueTo="0"
+            android:valueType="0"
+            android:propertyName="translationZ" />
+    </item>
+
+    <item>
+
+        <objectAnimator
+            android:duration="0"
+            android:valueTo="0"
+            android:valueType="0"
+            android:propertyName="translationZ" />
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0008"
+        android:duration="150"
+        android:startOffset="0"
+        android:valueFrom="0.000000"
+        android:valueTo="1065353216.000000"
+        android:valueType="0"
+        android:propertyName="opacity" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a000a"
+        android:duration="150"
+        android:startOffset="0"
+        android:valueFrom="1061997760.000000"
+        android:valueTo="1065353216.000000"
+        android:valueType="0"
+        android:propertyName="scale" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0009"
+        android:duration="15"
+        android:startOffset="30"
+        android:propertyName="opacity" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a000a"
+        android:duration="330"
+        android:startOffset="0"
+        android:propertyName="scale" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a000a"
+        android:duration="240"
+        android:startOffset="90"
+        android:propertyName="iconScale" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0007"
+        android:duration="200"
+        android:startOffset="0"
+        android:propertyName="opacity" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0007"
+        android:duration="200"
+        android:startOffset="0"
+        android:propertyName="scale" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0008"
+        android:duration="0"
+        android:startOffset="200"
+        android:propertyName="iconScale" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a000a"
+        android:duration="200"
+        android:startOffset="0"
+        android:propertyName="opacity" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a000a"
+        android:duration="200"
+        android:startOffset="0"
+        android:propertyName="scale" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0008"
+        android:duration="0"
+        android:startOffset="0"
+        android:propertyName="iconScale" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0009"
+        android:duration="75"
+        android:startOffset="0"
+        android:valueFrom="1065353216.000000"
+        android:valueTo="0.000000"
+        android:valueType="0"
+        android:propertyName="opacity" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0008"
+        android:duration="200"
+        android:startOffset="0"
+        android:propertyName="width" />
+
+    <objectAnimator
+        android:interpolator="@ref/0x7f0a0008"
+        android:duration="200"
+        android:startOffset="0"
+        android:propertyName="height" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<selector />
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(27649)"
+    android:width="dimension(27649)"
+    android:viewportWidth="1121452032.000000"
+    android:viewportHeight="1121452032.000000">
+
+    <path
+        android:fillColor="rgb8(0xff008577)"
+        android:pathData="M0,0h108v108h-108z" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M9,0L9,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,0L19,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M29,0L29,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M39,0L39,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M49,0L49,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M59,0L59,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M69,0L69,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M79,0L79,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M89,0L89,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M99,0L99,108"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,9L108,9"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,19L108,19"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,29L108,29"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,39L108,39"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,49L108,49"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,59L108,59"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,69L108,69"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,79L108,79"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,89L108,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M0,99L108,99"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,29L89,29"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,39L89,39"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,49L89,49"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,59L89,59"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,69L89,69"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M19,79L89,79"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M29,19L29,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M39,19L39,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M49,19L49,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M59,19L59,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M69,19L69,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+
+    <path
+        android:fillColor="argb8(0x0)"
+        android:pathData="M79,19L79,89"
+        android:strokeColor="argb8(0x33ffffff)"
+        android:strokeWidth="1061997760.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M12,7c2.76,0 5,2.24 5,5 0,0.65 -0.13,1.26 -0.36,1.83l2.92,2.92c1.51,-1.26 2.7,-2.89 3.43,-4.75 -1.73,-4.39 -6,-7.5 -11,-7.5 -1.4,0 -2.74,0.25 -3.98,0.7l2.16,2.16C10.74,7.13 11.35,7 12,7zM2,4.27l2.28,2.28 0.46,0.46C3.08,8.3 1.78,10.02 1,12c1.73,4.39 6,7.5 11,7.5 1.55,0 3.03,-0.3 4.38,-0.84l0.42,0.42L19.73,22 21,20.73 3.27,3 2,4.27zM7.53,9.8l1.55,1.55c-0.05,0.21 -0.08,0.43 -0.08,0.65 0,1.66 1.34,3 3,3 0.22,0 0.44,-0.03 0.65,-0.08l1.55,1.55c-0.67,0.33 -1.41,0.53 -2.2,0.53 -2.76,0 -5,-2.24 -5,-5 0,-0.79 0.2,-1.53 0.53,-2.2zM11.84,9.02l3.15,3.15 0.02,-0.16c0,-1.66 -1.34,-3 -3,-3l-0.17,0.01z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffffffff)"
+    android:height="dimension(15361)"
+    android:width="dimension(15361)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M17,10L7,10v2h10v-2zM19,3h-1L18,1h-2v2L8,3L8,1L6,1v2L5,3c-1.11,0 -1.99,0.9 -1.99,2L3,19c0,1.1 0.89,2 2,2h14c1.1,0 2,-0.9 2,-2L21,5c0,-1.1 -0.9,-2 -2,-2zM19,19L5,19L5,8h14v11zM14,14L7,14v2h7v-2z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xff838383)"
+    android:height="dimension(11521)"
+    android:width="dimension(11521)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M9,11L7,11v2h2v-2zM13,11h-2v2h2v-2zM17,11h-2v2h2v-2zM19,4h-1L18,2h-2v2L8,4L8,2L6,2v2L5,4c-1.11,0 -1.99,0.9 -1.99,2L3,20c0,1.1 0.89,2 2,2h14c1.1,0 2,-0.9 2,-2L21,6c0,-1.1 -0.9,-2 -2,-2zM19,20L5,20L5,9h14v11z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffb4b4b4)"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M12.65,10C11.83,7.67 9.61,6 7,6c-3.31,0 -6,2.69 -6,6s2.69,6 6,6c2.61,0 4.83,-1.67 5.65,-4H17v4h4v-4h2v-4H12.65zM7,14c-1.1,0 -2,-0.9 -2,-2s0.9,-2 2,-2 2,0.9 2,2 -0.9,2 -2,2z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffffffff)"
+    android:height="dimension(15361)"
+    android:width="dimension(15361)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M20,2L4,2c-1.1,0 -1.99,0.9 -1.99,2L2,22l4,-4h14c1.1,0 2,-0.9 2,-2L22,4c0,-1.1 -0.9,-2 -2,-2zM6,9h12v2L6,11L6,9zM14,14L6,14v-2h8v2zM18,8L6,8L6,6h12v2z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffb4b4b4)"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M20,4L4,4c-1.1,0 -1.99,0.9 -1.99,2L2,18c0,1.1 0.9,2 2,2h16c1.1,0 2,-0.9 2,-2L22,6c0,-1.1 -0.9,-2 -2,-2zM20,8l-8,5 -8,-5L4,6l8,5 8,-5v2z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffffffff)"
+    android:height="dimension(15361)"
+    android:width="dimension(15361)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M14,17L4,17v2h10v-2zM20,9L4,9v2h16L20,9zM4,15h16v-2L4,13v2zM4,5v2h16L20,5L4,5z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffffffff)"
+    android:height="dimension(15361)"
+    android:width="dimension(15361)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M10,20v-6h4v6h5v-8h3L12,3 2,12h3v8z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="@ref/0x7f0f0068" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x7f0300aa"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:state_focused="true"
+        android:color="@attr/0x7f0300a8" />
+
+    <item
+        android:state_pressed="true"
+        android:color="@attr/0x7f0300a8" />
+
+    <item
+        android:color="@attr/0x7f0300a8"
+        android:state_activated="true" />
+
+    <item
+        android:state_selected="true"
+        android:color="@attr/0x7f0300a8" />
+
+    <item
+        android:state_checked="true"
+        android:color="@attr/0x7f0300a8" />
+
+    <item
+        android:color="@attr/0x7f0300aa" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x7f0300aa"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:state_focused="false"
+        android:state_pressed="false"
+        android:color="@attr/0x7f0300aa" />
+
+    <item
+        android:color="@attr/0x7f0300a8" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x7f0300aa"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:state_focused="false"
+        android:state_pressed="false"
+        android:color="@attr/0x7f0300aa" />
+
+    <item
+        android:color="@attr/0x7f0300a8" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x1010030"
+        android:alpha="1036831936.000000" />
+
+    <item
+        android:state_checked="true"
+        android:color="@attr/0x7f0300a8"
+        android:alpha="1050253696.000000" />
+
+    <item
+        android:color="@attr/0x1010030"
+        android:alpha="1050253696.000000" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x7f0300aa"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:state_checked="true"
+        android:color="@attr/0x7f0300a8" />
+
+    <item
+        android:color="@attr/0x7f0300aa" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="true"
+        android:state_checked="true"
+        android:color="@attr/0x101042a"
+        android:alpha="@ref/0x7f06008f" />
+
+    <item
+        android:color="@attr/0x101042c" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x1010036"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:color="@attr/0x1010039" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x7f0300a8"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:color="@attr/0x7f0300a8" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x1010038"
+        android:alpha="@attr/0x1010033" />
+
+    <item
+        android:color="@attr/0x7f0300a5" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="1053609152.000000"
+    android:controlY1="0.000000"
+    android:controlX2="1045220544.000000"
+    android:controlY2="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pathData="M 0.0,0.0 c 0.4,0.0 0.4,1.0 1.0,1.0" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pathData="M 0.0,0.0 c 0.4,0.0 0.4,1.0 1.0,1.0" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pathData="M 0.0,0.0 c 0.33333333,0.0 0.0,1.0 1.0,1.0" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pathData="M 0.0,0.0 c 0.33333333,0.0 0.0,1.0 1.0,1.0" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pathData="M 0.0,0.0 l 1.0,0.0 l 0.0,1.0" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pathData="M 0.0,0.0 l 1.0,0.0 l 0.0,1.0" />
+<?xml version="1.0" encoding="utf-8"?>
+<accelerateDecelerateInterpolator />
+<?xml version="1.0" encoding="utf-8"?>
+<decelerateInterpolator />
+<?xml version="1.0" encoding="utf-8"?>
+<accelerateInterpolator />
+<?xml version="1.0" encoding="utf-8"?>
+<linearInterpolator />
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010c000e"
+    android:duration="250">
+
+    <translate
+        android:fromYDelta="fraction(429496881)"
+        android:toYDelta="0.000000" />
+
+    <alpha
+        android:fromAlpha="0.000000"
+        android:toAlpha="1065353216.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010c000f"
+    android:duration="@ref/0x7f090003">
+
+    <translate
+        android:fromYDelta="fraction(429496881)"
+        android:toYDelta="0.000000" />
+
+    <alpha
+        android:fromAlpha="0.000000"
+        android:toAlpha="1065353216.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010c000d"
+    android:duration="@ref/0x7f090003">
+
+    <translate
+        android:fromYDelta="0.000000"
+        android:toYDelta="fraction(429496881)" />
+
+    <alpha
+        android:fromAlpha="1065353216.000000"
+        android:toAlpha="0.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<set
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@ref/0x010c000f"
+    android:duration="200">
+
+    <translate
+        android:fromYDelta="0.000000"
+        android:toYDelta="fraction(429496881)" />
+
+    <alpha
+        android:fromAlpha="1065353216.000000"
+        android:toAlpha="0.000000" />
+</set>
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <external-cache-path
+        name="picturesext"
+        path="EasyImage/" />
+
+    <cache-path
+        name="picturesint"
+        path="EasyImage/" />
+</paths>
+<?xml version="1.0" encoding="utf-8"?>
+<badge
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:badgeGravity="8388659"
+    app:maxCharacterCount="2" />
+<?xml version="1.0" encoding="utf-8"?>
+<badge
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:badgeGravity="8388691"
+    app:maxCharacterCount="2" />
+<?xml version="1.0" encoding="utf-8"?>
+<badge
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:badgeGravity="8388693"
+    app:maxCharacterCount="2" />
+<?xml version="1.0" encoding="utf-8"?>
+<badge
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:maxCharacterCount="2" />
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <external-path
+        name="external_files"
+        path="." />
+</paths>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600c1"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item
+        android:state_enabled="true"
+        android:state_hovered="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600b8"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600b7"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item
+        android:state_enabled="true">
+
+        <set>
+
+            <objectAnimator
+                android:duration="@ref/0x7f09000c"
+                android:valueTo="@ref/0x7f0600c7"
+                android:valueType="0"
+                android:propertyName="translationZ"
+                android:startDelay="@ref/0x7f09000b" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b6"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+
+    <item>
+
+        <set>
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b5"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+
+            <objectAnimator
+                android:duration="0"
+                android:valueTo="@ref/0x7f0600b4"
+                android:valueType="0"
+                android:propertyName="elevation" />
+        </set>
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:state_enabled="true"
+        app:state_dragged="true">
+
+        <set>
+
+            <objectAnimator
+                android:interpolator="@ref/0x7f0a0008"
+                android:duration="@ref/0x7f090011"
+                android:valueTo="@ref/0x7f0600f4"
+                android:valueType="0"
+                android:propertyName="translationZ"
+                android:startDelay="@ref/0x7f090010" />
+        </set>
+    </item>
+
+    <item
+        android:state_enabled="true">
+
+        <set>
+
+            <objectAnimator
+                android:interpolator="@ref/0x7f01001e"
+                android:duration="@ref/0x7f090011"
+                android:valueTo="dimension(1)"
+                android:valueType="0"
+                android:propertyName="translationZ" />
+        </set>
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="dimension(27649)"
+    android:width="dimension(27649)"
+    android:viewportWidth="1121452032.000000"
+    android:viewportHeight="1121452032.000000">
+
+    <path
+        android:fillColor="@ref/0x7f070006"
+        android:pathData="M32,64C32,64 38.39,52.99 44.13,50.95C51.37,48.37 70.14,49.57 70.14,49.57L108.26,87.69L108,109.01L75.97,107.97L32,64Z"
+        android:strokeColor="argb8(0x0)"
+        android:strokeWidth="1065353216.000000"
+        android:fillType="1" />
+
+    <path
+        android:fillColor="rgb8(0xffffffff)"
+        android:pathData="M66.94,46.02L66.94,46.02C72.44,50.07 76,56.61 76,64L32,64C32,56.61 35.56,50.11 40.98,46.06L36.18,41.19C35.45,40.45 35.45,39.3 36.18,38.56C36.91,37.81 38.05,37.81 38.78,38.56L44.25,44.05C47.18,42.57 50.48,41.71 54,41.71C57.48,41.71 60.78,42.57 63.68,44.05L69.11,38.56C69.84,37.81 70.98,37.81 71.71,38.56C72.44,39.3 72.44,40.45 71.71,41.19L66.94,46.02ZM62.94,56.92C64.08,56.92 65,56.01 65,54.88C65,53.76 64.08,52.85 62.94,52.85C61.8,52.85 60.88,53.76 60.88,54.88C60.88,56.01 61.8,56.92 62.94,56.92ZM45.06,56.92C46.2,56.92 47.13,56.01 47.13,54.88C47.13,53.76 46.2,52.85 45.06,52.85C43.92,52.85 43,53.76 43,54.88C43,56.01 43.92,56.92 45.06,56.92Z"
+        android:strokeColor="argb8(0x0)"
+        android:strokeWidth="1065353216.000000"
+        android:fillType="0" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<gradient
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:type="0"
+    android:startX="1111691136.000000"
+    android:startY="1114922752.000000"
+    android:endX="1117597056.000000"
+    android:endY="1119212800.000000">
+
+    <item
+        android:color="argb8(0x44000000)"
+        android:offset="0.000000" />
+
+    <item
+        android:color="argb8(0x0)"
+        android:offset="1065353216.000000" />
+</gradient>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ActionBarOverlayLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@ref/0x7f080090"
+    android:fitsSystemWindows="true"
+    android:layout_width="-1"
+    android:layout_height="-1">
+
+    <include
+        layout="@ref/0x7f0b0014" />
+
+    <androidx.appcompat.widget.ActionBarContainer
+        android:gravity="0x30"
+        android:id="@ref/0x7f080032"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_alignParentTop="true"
+        android:touchscreenBlocksFocus="true"
+        android:keyboardNavigationCluster="true"
+        style="@attr/0x7f030008">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@ref/0x7f080030"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            app:navigationContentDescription="@ref/0x7f0f0001"
+            style="@attr/0x7f03029b" />
+
+        <androidx.appcompat.widget.ActionBarContextView
+            android:theme="@attr/0x7f03000c"
+            android:id="@ref/0x7f080038"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            style="@attr/0x7f03001e" />
+    </androidx.appcompat.widget.ActionBarContainer>
+</androidx.appcompat.widget.ActionBarOverlayLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.datepicker.MaterialCalendarGridView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x11"
+    android:id="@ref/0x7f0800fb"
+    android:addStatesFromChildren="false"
+    android:descendantFocusability="1"
+    android:layout_width="-1"
+    android:layout_height="-1"
+    android:listSelector="@ref/0x0106000d"
+    android:horizontalSpacing="@ref/0x7f0600df"
+    android:verticalSpacing="@ref/0x7f0600e0"
+    android:defaultFocusHighlightEnabled="false" />
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x31"
+    android:orientation="1"
+    android:id="@ref/0x7f0801ad"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <LinearLayout
+        android:gravity="0x1"
+        android:orientation="1"
+        android:id="@ref/0x7f0801aa"
+        android:layout_width="-1"
+        android:layout_height="-2"
+        android:layout_marginTop="dimension(6145)">
+
+        <ImageView
+            android:layout_gravity="0x1"
+            android:id="@ref/0x01020006"
+            android:layout_width="-2"
+            android:layout_height="-2"
+            android:adjustViewBounds="true"
+            android:maxWidth="dimension(6145)"
+            android:maxHeight="dimension(6145)" />
+
+        <androidx.appcompat.widget.DialogTitle
+            android:gravity="0x11"
+            android:id="@ref/0x7f08004c"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            style="@attr/0x101005b" />
+    </LinearLayout>
+
+    <android.widget.Space
+        android:id="@ref/0x7f0801a9"
+        android:visibility="2"
+        android:layout_width="-1"
+        android:layout_height="@ref/0x7f060026" />
+</LinearLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ButtonBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x50"
+    android:orientation="0"
+    android:id="@ref/0x7f080060"
+    android:paddingLeft="dimension(3073)"
+    android:paddingTop="dimension(1025)"
+    android:paddingRight="dimension(3073)"
+    android:paddingBottom="dimension(1025)"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:layoutDirection="3">
+
+    <Button
+        android:id="@ref/0x0102001b"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        style="@attr/0x7f030064" />
+
+    <Button
+        android:id="@ref/0x0102001a"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        style="@attr/0x7f030063" />
+
+    <Button
+        android:id="@ref/0x01020019"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        style="@attr/0x7f030065" />
+</androidx.appcompat.widget.ButtonBarLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.ButtonBarLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="0x50"
+    android:orientation="0"
+    android:id="@ref/0x7f080060"
+    android:paddingLeft="dimension(3073)"
+    android:paddingTop="dimension(1025)"
+    android:paddingRight="dimension(3073)"
+    android:paddingBottom="dimension(1025)"
+    android:layout_width="-1"
+    android:layout_height="-2"
+    android:layoutDirection="3">
+
+    <Button
+        android:id="@ref/0x0102001b"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        style="@attr/0x7f030064" />
+
+    <Button
+        android:id="@ref/0x0102001a"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        style="@attr/0x7f030063" />
+
+    <Button
+        android:id="@ref/0x01020019"
+        android:layout_width="-2"
+        android:layout_height="-2"
+        android:layout_weight="1065353216.000000"
+        style="@attr/0x7f030065" />
+</androidx.appcompat.widget.ButtonBarLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@ref/0x7f080124"
+    android:layout_width="-1"
+    android:layout_height="-2">
+
+    <ImageView
+        android:id="@ref/0x7f0800d1"
+        android:layout_width="@ref/0x7f060137"
+        android:layout_height="@ref/0x7f060136"
+        android:scaleType="5" />
+
+    <LinearLayout
+        android:layout_gravity="0x30"
+        android:orientation="1"
+        android:layout_width="-1"
+        android:layout_height="-2">
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f080126"
+            android:paddingTop="@ref/0x7f060138"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060137"
+            android:minHeight="@ref/0x7f060136">
+
+            <FrameLayout
+                android:id="@ref/0x7f080125"
+                android:layout_width="-1"
+                android:layout_height="-2"
+                android:layout_marginLeft="@ref/0x7f060135"
+                android:layout_marginRight="dimension(2049)"
+                android:layout_marginBottom="dimension(2049)"
+                android:layout_weight="1065353216.000000">
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@ref/0x7f080144"
+                android:paddingTop="@ref/0x7f06013b"
+                android:layout_width="-2"
+                android:layout_height="-2"
+                android:layout_marginRight="dimension(2049)">
+
+                <ViewStub
+                    android:layout_gravity="0x800035"
+                    android:id="@ref/0x7f0801a7"
+                    android:visibility="2"
+                    android:layout="@ref/0x7f0b00d2"
+                    android:layout_width="-2"
+                    android:layout_height="-2" />
+
+                <ViewStub
+                    android:layout_gravity="0x800035"
+                    android:id="@ref/0x7f080070"
+                    android:visibility="2"
+                    android:layout="@ref/0x7f0b00d1"
+                    android:layout_width="-2"
+                    android:layout_height="-2" />
+
+                <LinearLayout
+                    android:layout_gravity="0x800055"
+                    android:orientation="0"
+                    android:layout_width="-1"
+                    android:layout_height="-2"
+                    android:layout_marginTop="dimension(5121)">
+
+                    <TextView
+                        android:textAppearance="@ref/0x7f10015a"
+                        android:id="@ref/0x7f0800d7"
+                        android:layout_width="-2"
+                        android:layout_height="-2"
+                        android:singleLine="true" />
+
+                    <ImageView
+                        android:layout_gravity="0x11"
+                        android:id="@ref/0x7f080143"
+                        android:visibility="2"
+                        android:layout_width="dimension(4097)"
+                        android:layout_height="dimension(4097)"
+                        android:layout_marginLeft="dimension(2049)"
+                        android:scaleType="7"
+                        android:alpha="1058642304.000000" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@ref/0x7f080039"
+            android:background="@attr/0x101032c"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="dimension(256)"
+            android:layout_marginLeft="@ref/0x7f060137" />
+
+        <LinearLayout
+            android:orientation="0"
+            android:id="@ref/0x7f080042"
+            android:visibility="2"
+            android:layout_width="-1"
+            android:layout_height="-2"
+            android:layout_marginLeft="@ref/0x7f060137"
+            android:divider="@attr/0x1010214"
+            android:showDividers="0x2"
+            android:dividerPadding="dimension(3073)">
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
