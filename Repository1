@@ -8303,3 +8303,731 @@
         </LinearLayout>
     </LinearLayout>
 </FrameLayout>
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="1053609152.000000"
+    android:controlY1="0.000000"
+    android:controlX2="1045220544.000000"
+    android:controlY2="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="0.000000"
+    android:controlY1="0.000000"
+    android:controlX2="1045220544.000000"
+    android:controlY2="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="1053609152.000000"
+    android:controlY1="0.000000"
+    android:controlX2="1065353216.000000"
+    android:controlY2="1065353216.000000" />
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x51"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.Snackbar$SnackbarLayout"
+    style="@attr/0x7f030227" />
+<?xml version="1.0" encoding="utf-8"?>
+<view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:theme="@ref/0x7f1001cb"
+    android:layout_gravity="0x51"
+    android:layout_width="-2"
+    android:layout_height="-2"
+    class="com.google.android.material.snackbar.Snackbar$SnackbarLayout"
+    style="@ref/0x7f100248" />
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape>
+
+            <solid
+                android:color="@attr/0x7f0300b9" />
+
+            <corners
+                android:topLeftRadius="dimension(1025)"
+                android:topRightRadius="dimension(1025)"
+                android:bottomLeftRadius="dimension(1025)"
+                android:bottomRightRadius="dimension(1025)" />
+        </shape>
+    </item>
+
+    <item>
+
+        <shape>
+
+            <solid
+                android:color="@ref/0x7f0500a9" />
+
+            <corners
+                android:topLeftRadius="dimension(1025)"
+                android:topRightRadius="dimension(1025)"
+                android:bottomLeftRadius="dimension(1025)"
+                android:bottomRightRadius="dimension(1025)" />
+
+            <padding
+                android:top="dimension(2049)"
+                android:bottom="dimension(2049)" />
+        </shape>
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<ripple
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@ref/0x7f050004"
+    android:radius="dimension(5121)" />
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-2"
+    android:layout_height="-1">
+
+    <LinearLayout
+        android:layout_gravity="0x800003"
+        android:orientation="1"
+        android:id="@ref/0x7f080115"
+        android:paddingLeft="@ref/0x7f0600d4"
+        android:paddingRight="@ref/0x7f0600d4"
+        android:paddingBottom="@ref/0x7f0600d4"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        android:paddingStart="@ref/0x7f0600d4"
+        android:paddingEnd="@ref/0x7f0600d4"
+        style="@attr/0x7f0301d2">
+
+        <FrameLayout
+            android:id="@ref/0x7f080117"
+            android:paddingLeft="@ref/0x7f0600da"
+            android:layout_width="@ref/0x7f0600dd"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000"
+            android:paddingStart="@ref/0x7f0600da">
+
+            <include
+                layout="@ref/0x7f0b00bf" />
+
+            <include
+                layout="@ref/0x7f0b00be" />
+        </FrameLayout>
+
+        <include
+            layout="@ref/0x7f0b00c0" />
+    </LinearLayout>
+
+    <View
+        android:layout_gravity="0x800005"
+        android:layout_width="@ref/0x7f0600d6"
+        android:layout_height="-1"
+        style="@attr/0x7f0301d1" />
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@ref/0x7f080040"
+        android:orderInCategory="100"
+        android:title="@ref/0x7f0f001b"
+        app:showAsAction="0x0" />
+</menu>
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@ref/0x7f0800a1"
+        android:title="@ref/0x7f0f0037"
+        app:showAsAction="0x2" />
+</menu>
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="-2"
+    android:layout_height="-1">
+
+    <LinearLayout
+        android:layout_gravity="0x800003"
+        android:orientation="1"
+        android:id="@ref/0x7f080115"
+        android:paddingLeft="@ref/0x7f0600d4"
+        android:paddingRight="@ref/0x7f0600d4"
+        android:paddingBottom="@ref/0x7f0600d4"
+        android:layout_width="-2"
+        android:layout_height="-1"
+        style="@attr/0x7f0301d2">
+
+        <FrameLayout
+            android:id="@ref/0x7f080117"
+            android:paddingLeft="@ref/0x7f0600da"
+            android:layout_width="@ref/0x7f0600dd"
+            android:layout_height="dimension(1)"
+            android:layout_weight="1065353216.000000">
+
+            <include
+                layout="@ref/0x7f0b00bf" />
+
+            <include
+                layout="@ref/0x7f0b00be" />
+        </FrameLayout>
+
+        <include
+            layout="@ref/0x7f0b00c0" />
+    </LinearLayout>
+
+    <View
+        android:layout_gravity="0x800005"
+        android:layout_width="@ref/0x7f0600d6"
+        android:layout_height="-1"
+        style="@attr/0x7f0301d1" />
+</merge>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:state_enabled="true"
+        app:state_liftable="true"
+        app:state_lifted="false">
+
+        <objectAnimator
+            android:duration="@ref/0x7f090002"
+            android:valueTo="dimension(1)"
+            android:valueType="0"
+            android:propertyName="elevation" />
+    </item>
+
+    <item
+        android:state_enabled="true">
+
+        <objectAnimator
+            android:duration="@ref/0x7f090002"
+            android:valueTo="@ref/0x7f06005b"
+            android:valueType="0"
+            android:propertyName="elevation" />
+    </item>
+
+    <item>
+
+        <objectAnimator
+            android:duration="0"
+            android:valueTo="0"
+            android:valueType="0"
+            android:propertyName="elevation" />
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <background
+        android:drawable="@ref/0x7f070093" />
+
+    <foreground
+        android:drawable="@ref/0x7f070094" />
+</adaptive-icon>
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <background
+        android:drawable="@ref/0x7f070093" />
+
+    <foreground
+        android:drawable="@ref/0x7f070094" />
+</adaptive-icon>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:color="@attr/0x1010038" />
+
+    <item
+        android:color="@attr/0x7f0300a5" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <solid
+        android:color="@ref/0x0106000b" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1"
+    android:versionName="1.0"
+    android:compileSdkVersion="29"
+    android:compileSdkVersionCodename="10"
+    package="com.sst.attendanceportal"
+    platformBuildVersionCode="29"
+    platformBuildVersionName="10">
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="29" />
+
+    <uses-permission
+        android:name="android.permission.INTERNET" />
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-permission
+        android:name="android.permission.CAMERA" />
+
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-permission
+        android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:theme="@ref/0x7f100190"
+        android:label="@ref/0x7f0f001c"
+        android:icon="@ref/0x7f0d0002"
+        android:name="androidx.multidex.MultiDexApplication"
+        android:debuggable="true"
+        android:allowBackup="true"
+        android:supportsRtl="true"
+        android:roundIcon="@ref/0x7f0d0002"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.course.SearchModuleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.course.CourseGradesActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.course.CouresAttendanceActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.course.CourseTimeTableActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.course.CourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.SelectModuleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.FilesStartActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.RespondActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.ReplyMessageActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.ReadMessageActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.RecyclBinMessageActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.AllMessagesActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.MessageDoneActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.MessageSendActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.viewgrades.GradesTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.viewteachertimetable.TeacherFirstTimetableActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.viewteachertimetable.TeacherTimeTableActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.messaging.MessageFirstActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.studentgrades.SelectClassForGradesActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.timetable.SearchStudentActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.timetable.ViewTimeTableActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.timetable.StudentTimeTableActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.attendance.SelectCourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.attendance.AttendanceViewActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.calender.ViewMeetingScheduleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.calender.MeetingScheduleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.calender.MeetingDetailActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.calender.CalenderFirstActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.appcontent.ContentConfirmationActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.appcontent.CreateVideoActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.appcontent.CreateEventActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.appcontent.CreateArticalActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.appcontent.CreateNoticeActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.appcontent.AppContentActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.studentgrades.StudentGradesActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtomodule.AddtoMoodleTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtomodule.AddTeacherToModule" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.attendance.SearchClassActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtocourse.SelectCourseForTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtocourse.TeacherAddedActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtocourse.SelectTeacherForCourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtocourse.SearchCourseForTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtoapp.AddTeacherDoneActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtoapp.AddTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtoapp.SelectTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.addtocourse.SearchTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.teacher.TeacherFirstActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.course.AddCourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.course.CourseFirstActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtocourse.AddtoCourseSecondActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtocourse.SelectStudentForActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.AddtoCourseDoneActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtocourse.AddtoCourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtomoodle.AddtoMoodleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.course.addteacherstudent.SearchCourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.course.addteacherstudent.SearchStudentTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.course.addteacherstudent.SelectStudentForCourseActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.course.addteacherstudent.SelectCourseForStudentTeacherActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtomoodle.AddtoMoodleSecondActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtomoodle.SelectStudentForMoodleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.addtocourse.AddtoappConfirmActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.AddtoappStudentActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.student.StudentActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.StudentContactInfoActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.timetable.StudentTimetableCheckActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.timetable.StudentTimetableActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.attendance.ViewStudentAttendanceActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.ViewStudentPropActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.SelectStudentActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.student.SearchStudentActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.attendance.AttendanceDoneActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.attendance.AttendanceActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.ClassSelectionActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.GradeResultActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.ViewGradeActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.AttendanceResultActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.ViewAttendaceActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.AttendaceGradeActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.LogoutActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.TermsConditionActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.PrivacyPolicyActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.AboutSettingActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.SettingsChangeSiteActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.SpaceUsageActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.SettingProfileActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.appsettings.SettingActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.AskConfirmationActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.ReportIssueConfirmationActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.AskUsActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.ReportIssueActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.FrequentlyaskQuestionActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.HelpActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.SelectedFilesActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.FileSelectionActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.more.MoreFirstActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.MoodleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.MeetingRescheduleActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.MeetingCancelActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.calender.ViewMeetingsActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.MeetingDoneActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.ScheduleMeetingActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.calendersetactivities.TeacherSetCalenderActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.TeacherMessageActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.CalenderActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.StudentHomeActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.TeacherHomeActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.adminactivities.AdminHomeActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.ForgotPasswordConfirmationActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.ForgotPasswordActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.teacheractivities.TeacherDetailActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.studentactivites.StudentDetailActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.SignUpActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.SingInActivity" />
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.SplashActivity">
+
+            <intent-filter>
+
+                <action
+                    android:name="android.intent.action.MAIN" />
+
+                <category
+                    android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.sst.attendanceportal.activities.MainActivity" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:exported="false"
+            android:authorities="com.sst.attendanceportal.easyphotopicker.fileprovider"
+            android:grantUriPermissions="true">
+
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@ref/0x7f120001" />
+        </provider>
+
+        <provider
+            android:name="com.jaiselrahman.filepicker.utils.FilePickerProvider"
+            android:exported="false"
+            android:authorities="com.sst.attendanceportal.filepicker.provider"
+            android:grantUriPermissions="true">
+
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@ref/0x7f120000" />
+        </provider>
+
+        <activity
+            android:theme="@ref/0x7f100009"
+            android:name="com.jaiselrahman.filepicker.activity.FilePickerActivity" />
+
+        <activity
+            android:theme="@ref/0x01030010"
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:exported="true"
+            android:excludeFromRecents="true"
+            android:launchMode="2" />
+
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:exported="false">
+
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:exported="false"
+            android:authorities="com.sst.attendanceportal.com.squareup.picasso" />
+
+        <activity
+            android:theme="@ref/0x01030010"
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:exported="false"
+            android:authorities="com.sst.attendanceportal.firebaseinitprovider"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@ref/0x7f090008" />
+    </application>
+</manifest>
+
