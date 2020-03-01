@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="btn_checkbox_checked"
+    android:height="dimension(8193)"
+    android:width="dimension(8193)"
+    android:viewportWidth="1111490560.000000"
+    android:viewportHeight="1111490560.000000">
+
+    <group
+        android:name="icon_null"
+        android:scaleX="1045220544.000000"
+        android:scaleY="1045220544.000000"
+        android:translateX="1103101952.000000"
+        android:translateY="1103101952.000000">
+
+        <group
+            android:name="check"
+            android:scaleX="1089470464.000000"
+            android:scaleY="1089470464.000000">
+
+            <path
+                android:name="check_path_merged"
+                android:fillColor="argb8(0xff000000)"
+                android:pathData="M 7.0,-9.0 c 0.0,0.0 -14.0,0.0 -14.0,0.0 c -1.1044921875,0.0 -2.0,0.8955078125 -2.0,2.0 c 0.0,0.0 0.0,14.0 0.0,14.0 c 0.0,1.1044921875 0.8955078125,2.0 2.0,2.0 c 0.0,0.0 14.0,0.0 14.0,0.0 c 1.1044921875,0.0 2.0,-0.8955078125 2.0,-2.0 c 0.0,0.0 0.0,-14.0 0.0,-14.0 c 0.0,-1.1044921875 -0.8955078125,-2.0 -2.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z M -2.0,5.00001525879 c 0.0,0.0 -5.0,-5.00001525879 -5.0,-5.00001525879 c 0.0,0.0 1.41409301758,-1.41409301758 1.41409301758,-1.41409301758 c 0.0,0.0 3.58590698242,3.58601379395 3.58590698242,3.58601379395 c 0.0,0.0 7.58590698242,-7.58601379395 7.58590698242,-7.58601379395 c 0.0,0.0 1.41409301758,1.41409301758 1.41409301758,1.41409301758 c 0.0,0.0 -9.0,9.00001525879 -9.0,9.00001525879 Z" />
+        </group>
+
+        <group
+            android:name="box_dilate"
+            android:scaleX="1089470464.000000"
+            android:scaleY="1089470464.000000">
+
+            <path
+                android:name="box_inner_merged"
+                android:fillColor="argb8(0xff000000)"
+                android:pathData="M 0.0,-1.0 l 0.0,0.0 c 0.5522847498,0.0 1.0,0.4477152502 1.0,1.0 l 0.0,0.0 c 0.0,0.5522847498 -0.4477152502,1.0 -1.0,1.0 l 0.0,0.0 c -0.5522847498,0.0 -1.0,-0.4477152502 -1.0,-1.0 l 0.0,0.0 c 0.0,-0.5522847498 0.4477152502,-1.0 1.0,-1.0 Z M 7.0,-9.0 c 0.0,0.0 -14.0,0.0 -14.0,0.0 c -1.1044921875,0.0 -2.0,0.8955078125 -2.0,2.0 c 0.0,0.0 0.0,14.0 0.0,14.0 c 0.0,1.1044921875 0.8955078125,2.0 2.0,2.0 c 0.0,0.0 14.0,0.0 14.0,0.0 c 1.1044921875,0.0 2.0,-0.8955078125 2.0,-2.0 c 0.0,0.0 0.0,-14.0 0.0,-14.0 c 0.0,-1.1044921875 -0.8955078125,-2.0 -2.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z"
+                android:fillAlpha="0.000000" />
+        </group>
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="btn_checkbox_unchecked"
+    android:height="dimension(8193)"
+    android:width="dimension(8193)"
+    android:viewportWidth="1111490560.000000"
+    android:viewportHeight="1111490560.000000">
+
+    <group
+        android:name="icon_null"
+        android:scaleX="1045220544.000000"
+        android:scaleY="1045220544.000000"
+        android:translateX="1103101952.000000"
+        android:translateY="1103101952.000000">
+
+        <group
+            android:name="check"
+            android:scaleX="1089470464.000000"
+            android:scaleY="1089470464.000000">
+
+            <path
+                android:name="box_outer_merged"
+                android:fillColor="argb8(0xff000000)"
+                android:pathData="M 7.0,-9.0 c 0.0,0.0 -14.0,0.0 -14.0,0.0 c -1.1044921875,0.0 -2.0,0.8955078125 -2.0,2.0 c 0.0,0.0 0.0,14.0 0.0,14.0 c 0.0,1.1044921875 0.8955078125,2.0 2.0,2.0 c 0.0,0.0 14.0,0.0 14.0,0.0 c 1.1044921875,0.0 2.0,-0.8955078125 2.0,-2.0 c 0.0,0.0 0.0,-14.0 0.0,-14.0 c 0.0,-1.1044921875 -0.8955078125,-2.0 -2.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z M -2.0,5.00001525879 c 0.0,0.0 -1.4234161377,-1.40159606934 -1.4234161377,-1.40159606934 c 0.0,0.0 1.41409301758,-1.41409301758 1.41409301758,-1.41409301758 c 0.0,0.0 0.00932312011719,-0.0124053955078 0.00932312011719,-0.0124053955078 c 0.0,0.0 0.0234069824219,-0.0235137939453 0.0234069824219,-0.0235137939453 c 0.0,0.0 1.41409301758,1.41409301758 1.41409301758,1.41409301758 c 0.0,0.0 -1.4375,1.43751525879 -1.4375,1.43751525879 Z"
+                android:fillAlpha="0.000000" />
+        </group>
+
+        <group
+            android:name="box_dilate"
+            android:scaleX="1089470464.000000"
+            android:scaleY="1089470464.000000">
+
+            <path
+                android:name="box_inner_merged"
+                android:fillColor="argb8(0xff000000)"
+                android:pathData="M -7.0,-7.0 l 14.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,14.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l -14.0,0.0 c 0.0,0.0 0.0,0.0 0.0,0.0 l 0.0,-14.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z M 7.0,-9.0 c 0.0,0.0 -14.0,0.0 -14.0,0.0 c -1.1044921875,0.0 -2.0,0.8955078125 -2.0,2.0 c 0.0,0.0 0.0,14.0 0.0,14.0 c 0.0,1.1044921875 0.8955078125,2.0 2.0,2.0 c 0.0,0.0 14.0,0.0 14.0,0.0 c 1.1044921875,0.0 2.0,-0.8955078125 2.0,-2.0 c 0.0,0.0 0.0,-14.0 0.0,-14.0 c 0.0,-1.1044921875 -0.8955078125,-2.0 -2.0,-2.0 c 0.0,0.0 0.0,0.0 0.0,0.0 Z" />
+        </group>
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="btn_radio_to_on_mtrl"
+    android:height="dimension(8193)"
+    android:width="dimension(8193)"
+    android:viewportWidth="1107296256.000000"
+    android:viewportHeight="1107296256.000000">
+
+    <group
+        android:name="btn_radio_to_on_mtrl_0"
+        android:translateX="1098907648.000000"
+        android:translateY="1098907648.000000">
+
+        <group
+            android:name="ring_outer">
+
+            <path
+                android:name="ring_outer_path"
+                android:pathData="M 0.0,-9.0 c 4.9705627482,0.0 9.0,4.0294372518 9.0,9.0 c 0.0,4.9705627482 -4.0294372518,9.0 -9.0,9.0 c -4.9705627482,0.0 -9.0,-4.0294372518 -9.0,-9.0 c 0.0,-4.9705627482 4.0294372518,-9.0 9.0,-9.0 Z"
+                android:strokeColor="argb8(0xff000000)"
+                android:strokeWidth="1073741824.000000" />
+        </group>
+
+        <group
+            android:name="dot_group"
+            android:scaleX="0.000000"
+            android:scaleY="0.000000">
+
+            <path
+                android:name="dot_path"
+                android:fillColor="argb8(0xff000000)"
+                android:pathData="M 0.0,-5.0 c -2.7619934082,0.0 -5.0,2.2380065918 -5.0,5.0 c 0.0,2.7619934082 2.2380065918,5.0 5.0,5.0 c 2.7619934082,0.0 5.0,-2.2380065918 5.0,-5.0 c 0.0,-2.7619934082 -2.2380065918,-5.0 -5.0,-5.0 Z" />
+        </group>
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="btn_radio_to_off_mtrl"
+    android:height="dimension(8193)"
+    android:width="dimension(8193)"
+    android:viewportWidth="1107296256.000000"
+    android:viewportHeight="1107296256.000000">
+
+    <group
+        android:name="btn_radio_to_off_mtrl_0"
+        android:translateX="1098907648.000000"
+        android:translateY="1098907648.000000">
+
+        <group
+            android:name="ring_outer">
+
+            <path
+                android:name="ring_outer_path"
+                android:pathData="M 0.0,-9.0 c 4.9705627482,0.0 9.0,4.0294372518 9.0,9.0 c 0.0,4.9705627482 -4.0294372518,9.0 -9.0,9.0 c -4.9705627482,0.0 -9.0,-4.0294372518 -9.0,-9.0 c 0.0,-4.9705627482 4.0294372518,-9.0 9.0,-9.0 Z"
+                android:strokeColor="argb8(0xff000000)"
+                android:strokeWidth="1073741824.000000" />
+        </group>
+
+        <group
+            android:name="dot_group">
+
+            <path
+                android:name="dot_path"
+                android:fillColor="argb8(0xff000000)"
+                android:pathData="M 0.0,-5.0 c -2.7619934082,0.0 -5.0,2.2380065918 -5.0,5.0 c 0.0,2.7619934082 2.2380065918,5.0 5.0,5.0 c 2.7619934082,0.0 5.0,-2.2380065918 5.0,-5.0 c 0.0,-2.7619934082 -2.2380065918,-5.0 -5.0,-5.0 Z" />
+        </group>
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffaaaaaa)"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M9.4,10.5l4.77,-8.26C13.47,2.09 12.75,2 12,2c-2.4,0 -4.6,0.85 -6.32,2.25l3.66,6.35 0.06,-0.1zM21.54,9c-0.92,-2.92 -3.15,-5.26 -6,-6.34L11.88,9h9.66zM21.8,10h-7.49l0.29,0.5 4.76,8.25C21,16.97 22,14.61 22,12c0,-0.69 -0.07,-1.35 -0.2,-2zM8.54,12l-3.9,-6.75C3.01,7.03 2,9.39 2,12c0,0.69 0.07,1.35 0.2,2h7.49l-1.15,-2zM2.46,15c0.92,2.92 3.15,5.26 6,6.34L12.12,15L2.46,15zM13.73,15l-3.9,6.76c0.7,0.15 1.42,0.24 2.17,0.24 2.4,0 4.6,-0.85 6.32,-2.25l-3.66,-6.35 -0.93,1.6z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:autoMirrored="true"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <group
+        android:name="arrow"
+        android:pivotX="1094713344.000000"
+        android:pivotY="1094713344.000000"
+        android:rotation="1119092736.000000">
+
+        <path
+            android:fillColor="@ref/0x0106000c"
+            android:pathData="M7,14 L12,9 L17,14 L7,14 Z" />
+
+        <path
+            android:pathData="M0,0 L24,0 L24,24 L0,24 L0,0 Z" />
+    </group>
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M12,14c1.7,0 3,-1.3 3,-3l0,-6c0,-1.7 -1.3,-3 -3,-3c-1.7,0 -3,1.3 -3,3l0,6C9,12.7 10.3,14 12,14zM17.299999,11c0,3 -2.5,5.1 -5.3,5.1c-2.8,0 -5.3,-2.1 -5.3,-5.1L5,11c0,3.4 2.7,6.2 6,6.7L11,21l2,0l0,-3.3c3.3,-0.5 6,-3.3 6,-6.7L17.299999,11.000001z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M15.5,14l-0.8,0l-0.3,-0.3c1,-1.1 1.6,-2.6 1.6,-4.2C16,5.9 13.1,3 9.5,3C5.9,3 3,5.9 3,9.5S5.9,16 9.5,16c1.6,0 3.1,-0.6 4.2,-1.6l0.3,0.3l0,0.8l5,5l1.5,-1.5L15.5,14zM9.5,14C7,14 5,12 5,9.5S7,5 9.5,5C12,5 14,7 14,9.5S12,14 9.5,14z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="rgb8(0xff191919)"
+        android:pathData="M12,12m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0"
+        android:strokeColor="argb8(0x0)"
+        android:strokeWidth="1065353216.000000"
+        android:fillAlpha="1056964608.000000" />
+
+    <path
+        android:fillColor="rgb8(0xffffffff)"
+        android:pathData="M9.189,15.939l-3.127,-3.128l-1.061,1.061l4.189,4.189l9,-9l-1.061,-1.061z"
+        android:strokeColor="argb8(0x0)"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="dimension(769)"
+        android:top="dimension(769)"
+        android:right="dimension(769)"
+        android:bottom="dimension(769)">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="rgb8(0xffebebeb)" />
+
+            <corners
+                android:radius="dimension(513)" />
+
+            <padding
+                android:left="dimension(12801)"
+                android:top="dimension(2049)"
+                android:right="dimension(2817)"
+                android:bottom="dimension(1793)" />
+        </shape>
+    </item>
+
+    <item
+        android:left="dimension(-9215)">
+
+        <bitmap
+            android:gravity="0x13"
+            android:src="@ref/0x7f070083" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="dimension(769)"
+        android:top="dimension(769)"
+        android:right="dimension(769)"
+        android:bottom="dimension(769)">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="rgb8(0xffebebeb)" />
+
+            <corners
+                android:radius="dimension(513)" />
+
+            <padding
+                android:left="dimension(1793)"
+                android:top="dimension(1793)"
+                android:right="dimension(1793)"
+                android:bottom="dimension(1793)" />
+        </shape>
+    </item>
+
+    <item>
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070083" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@ref/0x01020000"
+        android:drawable="@ref/0x7f070046" />
+
+    <item
+        android:id="@ref/0x0102000f">
+
+        <scale
+            android:scaleWidth="100%">
+
+            <selector>
+
+                <item
+                    android:state_enabled="false">
+
+                    <color
+                        android:color="@ref/0x0106000d" />
+                </item>
+
+                <item
+                    android:drawable="@ref/0x7f070045" />
+            </selector>
+        </scale>
+    </item>
+
+    <item
+        android:id="@ref/0x0102000d">
+
+        <scale
+            android:scaleWidth="100%">
+
+            <selector>
+
+                <item
+                    android:state_enabled="false">
+
+                    <color
+                        android:color="@ref/0x0106000d" />
+                </item>
+
+                <item
+                    android:drawable="@ref/0x7f070045" />
+            </selector>
+        </scale>
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@ref/0x7f060019"
+    android:insetRight="@ref/0x7f060019"
+    android:insetTop="@ref/0x7f060019"
+    android:insetBottom="@ref/0x7f060019">
+
+    <selector>
+
+        <item
+            android:state_checked="false"
+            android:state_pressed="false">
+
+            <layer-list>
+
+                <item
+                    android:drawable="@ref/0x7f070058" />
+
+                <item
+                    android:drawable="@ref/0x7f07004a" />
+            </layer-list>
+        </item>
+
+        <item>
+
+            <layer-list>
+
+                <item
+                    android:drawable="@ref/0x7f070057" />
+
+                <item
+                    android:drawable="@ref/0x7f07004a" />
+            </layer-list>
+        </item>
+    </selector>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(4609)"
+    android:width="dimension(4609)"
+    android:viewportWidth="1099956224.000000"
+    android:viewportHeight="1099956224.000000">
+
+    <path
+        android:fillColor="rgb8(0xff000000)"
+        android:pathData="M13,11.87 L11.87,13 L9,10.13 L6.13,13 L5,11.87 L7.87,9 L5,6.13 L6.13,5 L9,7.87 L11.87,5 L13,6.13 L10.13,9 L13,11.87 Z M9,1 C4.58,1,1,4.58,1,9 C1,13.42,4.58,17,9,17 C13.42,17,17,13.42,17,9 C17,4.58,13.42,1,9,1 L9,1 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@ref/0x7f060012"
+    android:insetRight="@ref/0x7f060012"
+    android:insetTop="@ref/0x7f060013"
+    android:insetBottom="@ref/0x7f060013">
+
+    <shape
+        android:shape="0">
+
+        <corners
+            android:radius="@ref/0x7f060018" />
+
+        <solid
+            android:color="@ref/0x0106000b" />
+
+        <padding
+            android:left="@ref/0x7f060014"
+            android:top="@ref/0x7f060015"
+            android:right="@ref/0x7f060014"
+            android:bottom="@ref/0x7f060015" />
+    </shape>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M12,8c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2c-1.1,0 -2,0.9 -2,2S10.9,8 12,8zM12,10c-1.1,0 -2,0.9 -2,2s0.9,2 2,2c1.1,0 2,-0.9 2,-2S13.1,10 12,10zM12,16c-1.1,0 -2,0.9 -2,2s0.9,2 2,2c1.1,0 2,-0.9 2,-2S13.1,16 12,16z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M3,17.25V21h3.75L17.81,9.94l-3.75,-3.75L3,17.25zM20.71,7.04c0.39,-0.39 0.39,-1.02 0,-1.41l-2.34,-2.34c-0.39,-0.39 -1.02,-0.39 -1.41,0l-1.83,1.83 3.75,3.75 1.83,-1.83z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="path"
+        android:fillColor="rgb4(0xff000000)"
+        android:pathData="M 19 6.41 L 17.59 5 L 12 10.59 L 6.41 5 L 5 6.41 L 10.59 12 L 5 17.59 L 6.41 19 L 12 13.41 L 17.59 19 L 19 17.59 L 13.41 12 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="path_1"
+        android:fillColor="rgb4(0xff000000)"
+        android:pathData="M 15.41 16.59 L 10.83 12 L 15.41 7.41 L 14 6 L 8 12 L 14 18 L 15.41 16.59 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M20,3h-1L19,1h-2v2L7,3L7,1L5,1v2L4,3c-1.1,0 -2,0.9 -2,2v16c0,1.1 0.9,2 2,2h16c1.1,0 2,-0.9 2,-2L22,5c0,-1.1 -0.9,-2 -2,-2zM20,21L4,21L4,8h16v13z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:autoMirrored="true"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M20,11L7.8,11l5.6,-5.6L12,4l-8,8l8,8l1.4,-1.4L7.8,13L20,13L20,11z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="rgb8(0xffaaaaaa)"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M17,10.5V7c0,-0.55 -0.45,-1 -1,-1H4c-0.55,0 -1,0.45 -1,1v10c0,0.55 0.45,1 1,1h12c0.55,0 1,-0.45 1,-1v-3.5l4,4v-11l-4,4z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="path"
+        android:fillColor="rgb4(0xff000000)"
+        android:pathData="M 8.59 16.59 L 13.17 12 L 8.59 7.41 L 10 6 L 16 12 L 10 18 L 8.59 16.59 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="rgb8(0xff2f2f2f)"
+        android:pathData="M12,3v9.28c-0.47,-0.17 -0.97,-0.28 -1.5,-0.28C8.01,12 6,14.01 6,16.5S8.01,21 10.5,21c2.31,0 4.2,-1.75 4.45,-4H15V6h4V3h-7z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="dimension(257)"
+        android:top="dimension(257)"
+        android:right="dimension(257)"
+        android:bottom="dimension(257)">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="@ref/0x0106000d" />
+
+            <stroke
+                android:width="dimension(1025)"
+                android:color="argb8(0xffc6dafb)" />
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@ref/0x7f070075" />
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="dimension(257)"
+        android:top="dimension(257)"
+        android:right="dimension(257)"
+        android:bottom="dimension(257)">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="@ref/0x0106000d" />
+
+            <stroke
+                android:width="dimension(1025)"
+                android:color="argb8(0xffc6dafb)" />
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@ref/0x7f07006c" />
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="dimension(257)"
+        android:top="dimension(257)"
+        android:right="dimension(257)"
+        android:bottom="dimension(257)">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="@ref/0x0106000d" />
+
+            <stroke
+                android:width="dimension(1025)"
+                android:color="argb8(0x4d4284f2)" />
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@ref/0x7f07007a" />
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:left="dimension(257)"
+        android:top="dimension(257)"
+        android:right="dimension(257)"
+        android:bottom="dimension(257)">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="@ref/0x0106000d" />
+
+            <stroke
+                android:width="dimension(1025)"
+                android:color="argb8(0x4d4284f2)" />
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@ref/0x7f070071" />
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="argb8(0xff000000)"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10 10,-4.48 10,-10S17.52,2 12,2zM10,17l-5,-5 1.41,-1.41L10,14.17l7.59,-7.59L19,8l-9,9z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="rgb8(0xff2f2f2f)"
+        android:pathData="M6,2c-1.1,0 -1.99,0.9 -1.99,2L4,20c0,1.1 0.89,2 1.99,2L18,22c1.1,0 2,-0.9 2,-2L20,8l-6,-6L6,2zM13,9L13,3.5L18.5,9L13,9z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@ref/0x7f06002d"
+    android:insetRight="@ref/0x7f06002d"
+    android:insetTop="@ref/0x7f06002e"
+    android:insetBottom="@ref/0x7f06002c">
+
+    <selector>
+
+        <item
+            android:state_enabled="false"
+            android:drawable="@ref/0x7f070058" />
+
+        <item
+            android:state_focused="false"
+            android:state_pressed="false"
+            android:drawable="@ref/0x7f070058" />
+
+        <item
+            android:drawable="@ref/0x7f070057" />
+    </selector>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M19,6.41L17.59,5,12,10.59,6.41,5,5,6.41,10.59,12,5,17.59,6.41,19,12,13.41,17.59,19,19,17.59,13.41,12z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <solid
+        android:color="rgb8(0xfff6eef1)" />
+
+    <stroke
+        android:width="dimension(257)"
+        android:color="rgb8(0xffeeeeee)" />
+
+    <padding
+        android:left="@ref/0x7f0600a0"
+        android:top="@ref/0x7f0600a0"
+        android:right="@ref/0x7f0600a0"
+        android:bottom="@ref/0x7f0600a0" />
+
+    <corners
+        android:radius="@ref/0x7f0600a0" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:constantSize="true">
+
+    <item
+        android:state_enabled="false"
+        android:state_pressed="true">
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070042" />
+    </item>
+
+    <item
+        android:state_enabled="false">
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070042" />
+    </item>
+
+    <item
+        android:state_pressed="true">
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070044" />
+    </item>
+
+    <item>
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070043" />
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="path"
+        android:fillColor="rgb4(0xff000000)"
+        android:pathData="M 7 14 L 12 9 L 17 14 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="path"
+        android:fillColor="rgb4(0xff000000)"
+        android:pathData="M 7 14 L 12 9 L 17 14 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:name="path"
+        android:fillColor="rgb4(0xff000000)"
+        android:pathData="M 7 10 L 12 15 L 17 10 Z"
+        android:strokeWidth="1065353216.000000" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:id="@ref/0x7f08006d"
+        android:drawable="@ref/0x7f070060" />
+
+    <item
+        android:id="@ref/0x7f0801b6"
+        android:drawable="@ref/0x7f070062" />
+
+    <transition
+        android:drawable="@ref/0x7f070063"
+        android:toId="@ref/0x7f08006d"
+        android:fromId="@ref/0x7f0801b6" />
+
+    <transition
+        android:drawable="@ref/0x7f070061"
+        android:toId="@ref/0x7f0801b6"
+        android:fromId="@ref/0x7f08006d" />
+</animated-selector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:tint="@attr/0x7f0300aa"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M10,6l-1.4,1.4 4.599999,4.6 -4.599999,4.6 1.4,1.4 6,-6z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:id="@ref/0x7f080129"
+        android:drawable="@ref/0x7f070066" />
+
+    <item
+        android:id="@ref/0x7f080128"
+        android:drawable="@ref/0x7f070064" />
+
+    <transition
+        android:drawable="@ref/0x7f070067"
+        android:toId="@ref/0x7f080128"
+        android:fromId="@ref/0x7f080129" />
+
+    <transition
+        android:drawable="@ref/0x7f070065"
+        android:toId="@ref/0x7f080129"
+        android:fromId="@ref/0x7f080128" />
+</animated-selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_window_focused="false"
+        android:drawable="@ref/0x0106000d" />
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070039" />
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f070039" />
+
+    <item
+        android:state_focused="true"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070037" />
+
+    <item
+        android:state_focused="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070037" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070033" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_window_focused="false"
+        android:drawable="@ref/0x0106000d" />
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f07003a" />
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f07003a" />
+
+    <item
+        android:state_focused="true"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070038" />
+
+    <item
+        android:state_focused="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070038" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070033" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M20,11L7.8,11l5.6,-5.6L12,4l-8,8l8,8l1.4,-1.4L7.8,13L20,13L20,11z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@ref/0x7f06004f"
+    android:insetRight="@ref/0x7f06004f"
+    android:insetTop="@ref/0x7f06004f"
+    android:insetBottom="@ref/0x7f06004f">
+
+    <shape
+        android:shape="0">
+
+        <corners
+            android:radius="@ref/0x7f060122" />
+
+        <solid
+            android:color="@attr/0x7f0300b9" />
+    </shape>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="@attr/0x7f0300b9" />
+
+    <corners
+        android:topLeftRadius="dimension(1025)"
+        android:topRightRadius="dimension(1025)"
+        android:bottomLeftRadius="dimension(1025)"
+        android:bottomRightRadius="dimension(1025)" />
+
+    <padding
+        android:top="dimension(2049)"
+        android:bottom="dimension(2049)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="@attr/0x7f0300b9" />
+
+    <corners
+        android:topLeftRadius="dimension(1025)"
+        android:topRightRadius="dimension(1025)"
+        android:bottomLeftRadius="dimension(1025)"
+        android:bottomRightRadius="dimension(1025)" />
+
+    <padding
+        android:top="dimension(2049)"
+        android:bottom="dimension(2049)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<inset
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="dimension(4097)"
+    android:insetRight="dimension(4097)"
+    android:insetTop="dimension(4097)"
+    android:insetBottom="dimension(4097)">
+
+    <shape
+        android:shape="0">
+
+        <corners
+            android:radius="@ref/0x7f06001b" />
+
+        <solid
+            android:color="@ref/0x0106000b" />
+    </shape>
+</inset>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="rgb8(0xff000000)"
+        android:pathData="M9,16.2L4.8,12l-1.4,1.4L9,19 21,7l-1.4,-1.4L9,16.2z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f07003a" />
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f07003a" />
+
+    <item
+        android:state_focused="true"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070038" />
+
+    <item
+        android:state_focused="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070038" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070033" />
+
+    <item
+        android:drawable="@ref/0x0106000d" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070039" />
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f070039" />
+
+    <item
+        android:state_focused="true"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070037" />
+
+    <item
+        android:state_focused="false"
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f070037" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070033" />
+
+    <item
+        android:drawable="@ref/0x0106000d" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="rgb8(0xffffffff)"
+        android:pathData="M9,16.2L4.8,12l-1.4,1.4L9,19 21,7l-1.4,-1.4L9,16.2z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <corners
+        android:bottomLeftRadius="dimension(1281)" />
+
+    <solid
+        android:color="@ref/0x7f0500d2" />
+
+    <padding
+        android:left="dimension(513)"
+        android:top="dimension(257)"
+        android:right="dimension(513)"
+        android:bottom="dimension(257)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@ref/0x7f070060">
+
+    <target
+        android:name="icon_null"
+        android:animation="@ref/0x7f010011" />
+
+    <target
+        android:name="check_path_merged"
+        android:animation="@ref/0x7f010010" />
+
+    <target
+        android:name="box_inner_merged"
+        android:animation="@ref/0x7f01000f" />
+</animated-vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M7 14l5-5 5 5z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="dimension(6145)"
+    android:width="dimension(6145)"
+    android:viewportWidth="1103101952.000000"
+    android:viewportHeight="1103101952.000000">
+
+    <path
+        android:fillColor="@ref/0x0106000b"
+        android:pathData="M7 10l5 5 5-5z" />
+</vector>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@ref/0x7f070066">
+
+    <target
+        android:name="ring_outer"
+        android:animation="@ref/0x7f010013" />
+
+    <target
+        android:name="ring_outer_path"
+        android:animation="@ref/0x7f010014" />
+
+    <target
+        android:name="dot_group"
+        android:animation="@ref/0x7f010012" />
+</animated-vector>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@ref/0x7f070064">
+
+    <target
+        android:name="ring_outer"
+        android:animation="@ref/0x7f010016" />
+
+    <target
+        android:name="ring_outer_path"
+        android:animation="@ref/0x7f010017" />
+
+    <target
+        android:name="dot_group"
+        android:animation="@ref/0x7f010015" />
+</animated-vector>
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@ref/0x7f070062">
+
+    <target
+        android:name="icon_null"
+        android:animation="@ref/0x7f01000e" />
+
+    <target
+        android:name="box_outer_merged"
+        android:animation="@ref/0x7f01000d" />
+
+    <target
+        android:name="box_inner_merged"
+        android:animation="@ref/0x7f01000c" />
+</animated-vector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_focused="true"
+        android:state_enabled="true"
+        android:drawable="@ref/0x7f070059" />
+
+    <item
+        android:state_enabled="true"
+        android:drawable="@ref/0x7f070059"
+        android:state_activated="true" />
+
+    <item
+        android:state_enabled="true"
+        android:drawable="@ref/0x7f07005a" />
+
+    <item
+        android:drawable="@ref/0x7f07005a" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_pressed="true">
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="rgb8(0xffff0000)" />
+        </shape>
+    </item>
+
+    <item>
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="rgb8(0xffffffff)" />
+        </shape>
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@ref/0x01020000"
+        android:drawable="@ref/0x7f07002a" />
+
+    <item
+        android:id="@ref/0x0102000f"
+        android:drawable="@ref/0x7f07002d" />
+
+    <item
+        android:id="@ref/0x0102000d">
+
+        <bitmap
+            android:src="@ref/0x7f07002a" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@ref/0x01020000"
+        android:drawable="@ref/0x7f070029" />
+
+    <item
+        android:id="@ref/0x0102000f"
+        android:drawable="@ref/0x7f07002c" />
+
+    <item
+        android:id="@ref/0x0102000d">
+
+        <bitmap
+            android:src="@ref/0x7f070029" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f07007b" />
+
+    <item
+        android:left="dimension(-9215)">
+
+        <bitmap
+            android:gravity="0x13"
+            android:src="@ref/0x7f070084" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@ref/0x01020000"
+        android:drawable="@ref/0x7f070028" />
+
+    <item
+        android:id="@ref/0x0102000f"
+        android:drawable="@ref/0x7f07002b" />
+
+    <item
+        android:id="@ref/0x0102000d">
+
+        <bitmap
+            android:src="@ref/0x7f070028" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f070076" />
+
+    <item
+        android:left="dimension(-9215)">
+
+        <bitmap
+            android:gravity="0x13"
+            android:src="@ref/0x7f070084" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <stroke
+        android:width="dimension(257)"
+        android:color="@ref/0x7f05002e" />
+
+    <solid
+        android:color="@ref/0x7f050031" />
+
+    <corners
+        android:radius="dimension(2561)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <stroke
+        android:width="dimension(257)"
+        android:color="@ref/0x7f05002e" />
+
+    <solid
+        android:color="@ref/0x7f05002f" />
+
+    <corners
+        android:radius="dimension(12801)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <stroke
+        android:width="dimension(257)"
+        android:color="@ref/0x7f05002e" />
+
+    <solid
+        android:color="@ref/0x7f05002f" />
+
+    <corners
+        android:radius="dimension(12801)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape
+            android:shape="0">
+
+            <solid
+                android:color="@ref/0x0106000b" />
+
+            <size
+                android:height="dimension(513)" />
+        </shape>
+    </item>
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <stroke
+        android:width="dimension(513)"
+        android:color="@ref/0x7f05002e" />
+
+    <solid
+        android:color="@ref/0x7f050031" />
+
+    <corners
+        android:radius="dimension(25601)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f070077" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070079" />
+
+    <item
+        android:drawable="@ref/0x7f07007a" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f07006e" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070070" />
+
+    <item
+        android:drawable="@ref/0x7f070071" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f07006e" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f07006b" />
+
+    <item
+        android:drawable="@ref/0x7f07006c" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_enabled="false"
+        android:drawable="@ref/0x7f070077" />
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f070074" />
+
+    <item
+        android:drawable="@ref/0x7f070075" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f070072" />
+
+    <item>
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070084" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f070072" />
+
+    <item>
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070084" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f07006d" />
+
+    <item>
+
+        <bitmap
+            android:gravity="0x11"
+            android:src="@ref/0x7f070084" />
+    </item>
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:exitFadeDuration="@ref/0x010e0001">
+
+    <item
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f0700ad" />
+
+    <item
+        android:state_pressed="false"
+        android:drawable="@ref/0x7f0700ac" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:exitFadeDuration="@ref/0x010e0001">
+
+    <item
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f0700af" />
+
+    <item
+        android:state_pressed="false"
+        android:drawable="@ref/0x7f0700ae" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_focused="true"
+        android:drawable="@ref/0x7f07000f" />
+
+    <item
+        android:state_pressed="true"
+        android:drawable="@ref/0x7f07000f" />
+
+    <item
+        android:drawable="@ref/0x0106000d" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <solid
+        android:color="@ref/0x0106000d" />
+
+    <size
+        android:height="@ref/0x7f060073"
+        android:width="@ref/0x7f060073" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="1">
+
+    <size
+        android:height="@ref/0x7f060035"
+        android:width="@ref/0x7f060035" />
+
+    <solid
+        android:color="@ref/0x0106000b" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <size
+        android:height="dimension(513)"
+        android:width="dimension(513)" />
+
+    <solid
+        android:color="@ref/0x0106000b" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="argb8(0x1f000000)" />
+
+    <size
+        android:height="dimension(257)"
+        android:width="dimension(257)" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_selected="true"
+        android:drawable="@ref/0x7f07004f" />
+
+    <item
+        android:drawable="@ref/0x0106000d" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:drawable="@ref/0x7f0700a2" />
+
+    <item
+        android:drawable="@ref/0x7f0700a1" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:drawable="@ref/0x7f07007e" />
+
+    <item
+        android:drawable="@ref/0x7f07007f" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:drawable="@ref/0x7f070015" />
+
+    <item
+        android:drawable="@ref/0x7f070014" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:drawable="@ref/0x7f070013" />
+
+    <item
+        android:drawable="@ref/0x7f070012" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:state_checked="true"
+        android:drawable="@ref/0x7f07000d" />
+
+    <item
+        android:drawable="@ref/0x7f07000c" />
+</selector>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <solid
+        android:color="@ref/0x7f0500d1" />
+
+    <corners
+        android:radius="@ref/0x7f060148" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <solid
+        android:color="@ref/0x7f0500d0" />
+
+    <corners
+        android:radius="@ref/0x7f060148" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <corners
+        android:radius="@ref/0x7f06007b" />
+
+    <solid
+        android:color="@ref/0x7f050062" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<transition
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f070035" />
+
+    <item
+        android:drawable="@ref/0x7f070034" />
+</transition>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@ref/0x7f07000f" />
+</layer-list>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="1">
+
+    <solid
+        android:color="@ref/0x7f0500b7" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="1">
+
+    <solid
+        android:color="@ref/0x0106000b" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="0">
+
+    <solid
+        android:color="@ref/0x0106000b" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="@ref/0x0106000c" />
+</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@ref/0x7f0700b4"
+    android:tileMode="1" />
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid
+        android:color="@ref/0x0106000b" />
+</shape>
